@@ -33,20 +33,20 @@ function createBlob(str,type){
  * 用于创建iframe框的默认样式，清除掉影响美观的属性
  * @return {string} 返回一个blob
  */
-function createCss(){
-  return createBlob(`
-  html, body {
-    width: 100%;
-    height: 100%;
-    margin: 0;
-    padding: 0;
-  }
+// function createCss(){
+//   return createBlob(`
+//   html, body {
+//     width: 100%;
+//     height: 100%;
+//     margin: 0;
+//     padding: 0;
+//   }
   
-  canvas:focus {
-    outline: none;
-  }
-  `,'text/css')
-}
+//   canvas:focus {
+//     outline: none;
+//   }
+//   `,'text/css')
+// }
 
 /**
  * 在ifram内加载cdn链接指向的three，返回window对象中包含了THREE
@@ -58,7 +58,7 @@ function cdnLoadTHREE(divNode,threeJsUrl) {
   return createIframe(divNode).then((iframe_window) => {
     // 创建完iframe才有了iframe内的iframe_window对象
     let link = document.createElement('link')
-    link.href = createCss()
+    // link.href = createCss()
     link.rel = 'stylesheet'
     link.type = 'text/css'
     iframe_window.document.head.appendChild(link);

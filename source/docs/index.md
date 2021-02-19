@@ -5,7 +5,7 @@ description: NexT User Docs
 ---
 # more testing
 <!-- <link rel="stylesheet" href="/assets/20201002/style.css"> -->
-<script src='cube.js'></script>
+<script src='./cube.js'></script>
 <!-- Spinning Cube Demo -->
 <div id="cube" style="--aspect-ratio:16/9;">
   <div id="param" class="dat-gui">
@@ -14,16 +14,19 @@ description: NexT User Docs
 
 
 
+<link rel="stylesheet" href="/css/container.css">
 <!-- this is the container where the three.js scene will go -->
 <div id="container"></div>
 
 <!-- these are the required scripts for the three.js scene -->
-<script src="./lib/three.min.lib"></script>
-<script src="./lib/OrbitControls.lib"></script>
-<script src="./lib/RectAreaLightUniformsLib.lib"></script>
+<script src="../lib/three.min.js"></script>
+<script src="../lib/OrbitControls.js"></script>
+<script src="../lib/RectAreaLightUniformsLib.js"></script>
 
 <!-- this is your app's lib file -->
-<script src="./lib/app.lib"></script>
+<script src="../lib/app.js"></script>
+
+# it should show up above this
 
 
 <div id="three"></div>
