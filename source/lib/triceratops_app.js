@@ -43,7 +43,7 @@ function init() {
 
   loader.load(
   	// resource URL
-  	"../assets/chair.json",
+    modelpath,
 
   	// onLoad callback
   	function ( obj ) {

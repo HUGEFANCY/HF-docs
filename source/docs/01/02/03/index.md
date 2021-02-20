@@ -6,18 +6,18 @@ description: NexT User Docs
 # more testing
 
 <script>
-    var modelpath = "../assets/chair.json";
+    var modelpath = "/assets/chair.json";
 </script>
 <!-- this is the container where the three.js scene will go -->
 <link rel="stylesheet" href="/css/container.css">
 <div id="container"></div>
 
 <!-- these are the required scripts for the three.js scene -->
-<script src="../lib/three.min.js"></script>
-<script src="../lib/OrbitControls.js"></script>
-<script src="../lib/RectAreaLightUniformsLib.js"></script>
+<script src="/lib/three.min.js"></script>
+<script src="/lib/OrbitControls.js"></script>
+<script src="/lib/RectAreaLightUniformsLib.js"></script>
 <!-- this is your app's lib file -->
-<script src="../lib/triceratops_app.js"></script>
+<script src="/lib/triceratops_app.js"></script>
 
 # it should show up above this
 

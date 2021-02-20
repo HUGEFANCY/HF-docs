@@ -8,3 +8,12 @@
 canvas:focus {
     outline: none;
 }
+/* the style of the progress text */
+#progress {
+    position: absolute;
+top: 0;
+    margin: 6px;
+    color: grey;
+    font-family: 'Courier New', Courier, monospace;
+z-index: 2000;
+}
