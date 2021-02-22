@@ -23,21 +23,26 @@ var flat_keys = Object.keys(flatfile)
 // console.log(flatfile)
 // console.log(flat_keys)
 
-var basepath = "/assets/HUGEFANCY_Printer/Schlitten_Y/"
+if (typeof basepath == 'undefined') {
+  var basepath = "/assets/HUGEFANCY_Printer/TESTIFTHISISVISIBLEITSWRONG/"
+}
 var geoarray_filepaths = []
 for (var geopath of flat_keys){
   // console.log(geopath)
-  var pathconcat = basepath + geopath.replace(/\./g, "/") + ".json"
-  console.log(pathconcat)
+   var pathconcat = basepath + geopath.replace(/\./g, "/") + ".json"
+  // console.log(pathconcat)
   geoarray_filepaths.push(pathconcat)
 }
 // console.log("next one is the flat array")
-console.log(geoarray_filepaths)
+// console.log(geoarray_filepaths)
 
 var Basescene = "/assets/Basescene.json"
 
 init();
+// 
+// setTimeout(200);
 animate();
+
 
 function init() {
     
@@ -66,7 +71,7 @@ function init() {
 
   // this is only required when using RectAreaLight
   THREE.RectAreaLightUniformsLib.init();
-
+  
   // load scene
   var loader = new THREE.ObjectLoader();
   // loadfromdictionary(geoarray_data, "lkj");
@@ -87,7 +92,7 @@ function init() {
         function ( err ) {
           console.error( 'An error happened' );}
           );
-
+          
   load_array(geoarray_filepaths, loader, scene)
 
   // listen for changes to the window size to update the canvas
@@ -161,15 +166,13 @@ function printValues(obj) {
       }
   };
 
-var countingg = 0;
 function loadfromdictionary(obj, loader, scene) {
-  countingg +=1;
   var loadpath = ""
   console.log("loadingfromarray:  "+ loadpath)
   for(var k in obj) {
     console.log(k)
       if(obj[k] instanceof Object && Object.keys(obj[k]).length > 1 ) {
-        console.log("runnign   "+ countingg + obj[k])
+        console.log("runnign   "+  obj[k])
         loadpath += Object.keys(obj[k]) + "/";
         loadpath += loadfromdictionary(obj[k])
           // loadfromdictionary(obj[k]);
@@ -234,4 +237,4 @@ function flatten (data) {
     }
     recurse(data, "");
     return result;
-}
+};

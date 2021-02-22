@@ -1,1863 +1,715 @@
 {
- "HUGEFANCY_Printer": {
-  "MainBelt": {
-   "MainBelt": {}
+ "MainBelt": {}, 
+ "Kugellager_8x22x7_Flansch": {}, 
+ "Frame_Middle": {
+  "Frame_Middle_Left": {
+   "SpiegelnSquare_Tube_40x40_265": {}, 
+   "SpiegelnSquare_Tube_40x40_760": {}, 
+   "SpiegelnSquare_Tube_40x40_schr-g_kurz": {}, 
+   "SpiegelnSquare_Tube_40x40_1180": {}, 
+   "SpiegelnSquare_Tube_40x40_2520": {}, 
+   "SpiegelnSquare_Tube_40x40_230": {}, 
+   "SpiegelnSquare_Tube_40x40_schr-g_lang": {}, 
+   "SpiegelnSquare_Tube_40x40_schr-g_mittel": {}, 
+   "SpiegelnSquare_Tube_40x40_795": {}
   }, 
-  "Kugellager_8x22x7_Flansch": {
-   "Kugellager_8x22x7_Flansch": {}
-  }, 
-  "Frame_Middle": {
-   "Frame_Middle": {
-    "Frame_Middle_Left": {
-     "Frame_Middle_Left": {
-      "SpiegelnSquare_Tube_40x40_265": {
-       "SpiegelnSquare_Tube_40x40_265": {}
-      }, 
-      "SpiegelnSquare_Tube_40x40_760": {
-       "SpiegelnSquare_Tube_40x40_760": {}
-      }, 
-      "SpiegelnSquare_Tube_40x40_schr-g_kurz": {
-       "SpiegelnSquare_Tube_40x40_schr-g_kurz": {}
-      }, 
-      "SpiegelnSquare_Tube_40x40_1180": {
-       "SpiegelnSquare_Tube_40x40_1180": {}
-      }, 
-      "SpiegelnSquare_Tube_40x40_2520": {
-       "SpiegelnSquare_Tube_40x40_2520": {}
-      }, 
-      "SpiegelnSquare_Tube_40x40_230": {
-       "SpiegelnSquare_Tube_40x40_230": {}
-      }, 
-      "SpiegelnSquare_Tube_40x40_schr-g_lang": {
-       "SpiegelnSquare_Tube_40x40_schr-g_lang": {}
-      }, 
-      "SpiegelnSquare_Tube_40x40_schr-g_mittel": {
-       "SpiegelnSquare_Tube_40x40_schr-g_mittel": {}
-      }, 
-      "SpiegelnSquare_Tube_40x40_795": {
-       "SpiegelnSquare_Tube_40x40_795": {}
-      }
-     }
-    }, 
-    "Frame_Middle_Right": {
-     "Frame_Middle_Right": {
-      "Square_Tube_30x30x2_schr-g_kurz": {
-       "Square_Tube_30x30x2_schr-g_kurz": {}
-      }, 
-      "Square_Tube_30x30x2_760": {
-       "Square_Tube_30x30x2_760": {}
-      }, 
-      "Square_Tubing__30x30x2_1180": {
-       "Square_Tubing__30x30x2_1180": {}
-      }, 
-      "Square_Tube_30x30x2_230": {
-       "Square_Tube_30x30x2_230": {}
-      }, 
-      "Square_Tube_30x30x2_795": {
-       "Square_Tube_30x30x2_795": {}
-      }, 
-      "Square_Tube_30x30x2_schr-g_lang": {
-       "Square_Tube_30x30x2_schr-g_lang": {}
-      }, 
-      "Square_Tube_30x30x2_2520": {
-       "Square_Tube_30x30x2_2520": {}
-      }, 
-      "Square_Tube_30x30x2_265": {
-       "Square_Tube_30x30x2_265": {}
-      }, 
-      "Square_Tube_30x30x2_schr-g_mittel": {
-       "Square_Tube_30x30x2_schr-g_mittel": {}
-      }
-     }
-    }
+  "Frame_Middle_Right": {
+   "Square_Tube_30x30x2_schr-g_kurz": {}, 
+   "Square_Tube_30x30x2_760": {}, 
+   "Square_Tubing__30x30x2_1180": {}, 
+   "Square_Tube_30x30x2_230": {}, 
+   "Square_Tube_30x30x2_795": {}, 
+   "Square_Tube_30x30x2_schr-g_lang": {}, 
+   "Square_Tube_30x30x2_2520": {}, 
+   "Square_Tube_30x30x2_265": {}, 
+   "Square_Tube_30x30x2_schr-g_mittel": {}
+  }
+ }, 
+ "Z-Axis": {
+  "M8_Aussensechskant_110": {}, 
+  "Gegenpressplatte_Extruder": {}, 
+  "Farbmischeinheit": {
+   "Schrittmotor_Nema_17_ST4118X0404-A": {}, 
+   "farbmischer_platte_2": {}, 
+   "Farbmischeinheit_Befestigung_2": {
+    "Block_03": {}
    }
   }, 
-  "Z-Axis": {
-   "Z-Axis": {
-    "M8_Aussensechskant_110": {
-     "M8_Aussensechskant_110": {}
-    }, 
-    "Gegenpressplatte_Extruder": {
-     "Gegenpressplatte_Extruder": {}
-    }, 
-    "Farbmischeinheit": {
-     "Farbmischeinheit": {
-      "Schrittmotor_Nema_17_ST4118X0404-A": {
-       "Schrittmotor_Nema_17_ST4118X0404-A": {}
-      }, 
-      "farbmischer_platte_2": {
-       "farbmischer_platte_2": {}
-      }, 
-      "Farbmischeinheit_Befestigung_2": {
-       "Farbmischeinheit_Befestigung_2": {
-        "Block_03": {
-         "Block_03": {}
-        }
-       }
-      }
-     }
-    }, 
-    "Einlauf": {
-     "Einlauf": {
-      "Einlauf_Extruder": {
-       "Einlauf_Extruder": {}
-      }, 
-      "Einlauf_Auslaufteil": {
-       "Einlauf_Auslaufteil": {}
-      }
-     }
-    }, 
-    "Treiber_Nanotec_N5_Modbus_RTU": {
-     "Treiber_Nanotec_N5_Modbus_RTU": {}
-    }, 
-    "Tank_Fenster_mitte": {
-     "Tank_Fenster_mitte": {}
-    }, 
-    "Tank_Trichter_Blech": {
-     "Tank_Trichter_Blech": {}
-    }, 
-    "Hitzeschild_Extruder_Trichter": {
-     "Hitzeschild_Extruder_Trichter": {}
-    }, 
-    "Endstopliner_z": {
-     "Endstopliner_z": {}
-    }, 
-    "Seite_L-fter": {
-     "Seite_L-fter": {}
-    }, 
-    "Kondensator_Servomotor": {
-     "Kondensator_Servomotor": {}
-    }, 
-    "Riemenrad_M-dler_HTD_3M_36Z_17023600": {
-     "Riemenrad_M-dler_HTD_3M_36Z_17023600": {}
-    }, 
-    "Trichter_Granulat": {
-     "Trichter_Granulat": {}
-    }, 
-    "Tank_Fenster_oben": {
-     "Tank_Fenster_oben": {}
-    }, 
-    "Servo_Extruderantrieb": {
-     "Servo_Extruderantrieb": {
-      "Getriebe_Servo_Nanotec_GPLE80-2S-F87": {
-       "Getriebe_Servo_Nanotec_GPLE80-2S-F87": {
-        "Getriebe_Servo_Nanotec_210-217_065-001": {
-         "Getriebe_Servo_Nanotec_210-217_065-001": {}
-        }, 
-        "Getriebe_Servo_Nanotec_PLE80_2_14_38_73_98P4_B5_M6": {
-         "Getriebe_Servo_Nanotec_PLE80_2_14_38_73_98P4_B5_M6": {}
-        }
-       }
-      }, 
-      "Servo_Nanotec_DB87L": {
-       "Servo_Nanotec_DB87L": {}
-      }
-     }
-    }, 
-    "geh-use_Endstop_z": {
-     "geh-use_Endstop_z": {}
-    }, 
-    "Riemen1-2": {
-     "Riemen1-2": {}
-    }, 
-    "Relayeinheit_AC": {
-     "Relayeinheit_AC": {
-      "Box_AC_Relays_Deckel": {
-       "Box_AC_Relays_Deckel": {}
-      }, 
-      "SSR-40_DA": {
-       "SSR-40_DA": {
-        "SSR-40_DA.iam88": {
-         "SSR-40_DA.iam88": {
-          "SSR-40_DA_Small_P_W_S.iam46": {
-           "SSR-40_DA_Small_P_W_S.iam46": {
-            "SSR-40_DA_Small_Plate.ipt": {
-             "SSR-40_DA_Small_Plate.ipt": {}
-            }, 
-            "SSR-40_DA_Screw.ipt": {
-             "SSR-40_DA_Screw.ipt": {}
-            }, 
-            "SSR-40_DA_Lock_Washer.ipt": {
-             "SSR-40_DA_Lock_Washer.ipt": {}
-            }
-           }
-          }, 
-          "SSR-40_DA_BOTTOM.ipt": {
-           "SSR-40_DA_BOTTOM.ipt": {}
-          }, 
-          "SSR-40_DA_Large_P_W_S.iam77": {
-           "SSR-40_DA_Large_P_W_S.iam77": {
-            "SSR-40_DA_Big_Plate.ipt": {
-             "SSR-40_DA_Big_Plate.ipt": {}
-            }, 
-            "SSR-40_DA_Screw.ipt": {
-             "SSR-40_DA_Screw.ipt": {}
-            }, 
-            "SSR-40_DA_Lock_Washer.ipt": {
-             "SSR-40_DA_Lock_Washer.ipt": {}
-            }
-           }
-          }, 
-          "SSR-40_DA_Large_P_W_S.iam63": {
-           "SSR-40_DA_Large_P_W_S.iam63": {
-            "SSR-40_DA_Big_Plate.ipt": {
-             "SSR-40_DA_Big_Plate.ipt": {}
-            }, 
-            "SSR-40_DA_Screw.ipt": {
-             "SSR-40_DA_Screw.ipt": {}
-            }, 
-            "SSR-40_DA_Lock_Washer.ipt": {
-             "SSR-40_DA_Lock_Washer.ipt": {}
-            }
-           }
-          }, 
-          "SSR-40_DA_Small_P_W_S.iam64": {
-           "SSR-40_DA_Small_P_W_S.iam64": {
-            "SSR-40_DA_Small_Plate.ipt": {
-             "SSR-40_DA_Small_Plate.ipt": {}
-            }, 
-            "SSR-40_DA_Screw.ipt": {
-             "SSR-40_DA_Screw.ipt": {}
-            }, 
-            "SSR-40_DA_Lock_Washer.ipt": {
-             "SSR-40_DA_Lock_Washer.ipt": {}
-            }
-           }
-          }, 
-          "SSR-40_DA_TOP.ipt": {
-           "SSR-40_DA_TOP.ipt": {}
-          }
-         }
-        }
-       }
-      }, 
-      "Box_AC_Relays": {
-       "Box_AC_Relays": {}
-      }, 
-      "SSR-40_DA93": {
-       "SSR-40_DA93": {
-        "SSR-40_DA.iam89": {
-         "SSR-40_DA.iam89": {
-          "SSR-40_DA_BOTTOM.ipt": {
-           "SSR-40_DA_BOTTOM.ipt": {}
-          }, 
-          "SSR-40_DA_Large_P_W_S.iam43": {
-           "SSR-40_DA_Large_P_W_S.iam43": {
-            "SSR-40_DA_Big_Plate.ipt": {
-             "SSR-40_DA_Big_Plate.ipt": {}
-            }, 
-            "SSR-40_DA_Screw.ipt": {
-             "SSR-40_DA_Screw.ipt": {}
-            }, 
-            "SSR-40_DA_Lock_Washer.ipt": {
-             "SSR-40_DA_Lock_Washer.ipt": {}
-            }
-           }
-          }, 
-          "SSR-40_DA_Small_P_W_S.iam84": {
-           "SSR-40_DA_Small_P_W_S.iam84": {
-            "SSR-40_DA_Small_Plate.ipt": {
-             "SSR-40_DA_Small_Plate.ipt": {}
-            }, 
-            "SSR-40_DA_Screw.ipt": {
-             "SSR-40_DA_Screw.ipt": {}
-            }, 
-            "SSR-40_DA_Lock_Washer.ipt": {
-             "SSR-40_DA_Lock_Washer.ipt": {}
-            }
-           }
-          }, 
-          "SSR-40_DA_Small_P_W_S.iam32": {
-           "SSR-40_DA_Small_P_W_S.iam32": {
-            "SSR-40_DA_Small_Plate.ipt": {
-             "SSR-40_DA_Small_Plate.ipt": {}
-            }, 
-            "SSR-40_DA_Screw.ipt": {
-             "SSR-40_DA_Screw.ipt": {}
-            }, 
-            "SSR-40_DA_Lock_Washer.ipt": {
-             "SSR-40_DA_Lock_Washer.ipt": {}
-            }
-           }
-          }, 
-          "SSR-40_DA_TOP.ipt": {
-           "SSR-40_DA_TOP.ipt": {}
-          }, 
-          "SSR-40_DA_Large_P_W_S.iam": {
-           "SSR-40_DA_Large_P_W_S.iam": {
-            "SSR-40_DA_Big_Plate.ipt": {
-             "SSR-40_DA_Big_Plate.ipt": {}
-            }, 
-            "SSR-40_DA_Screw.ipt": {
-             "SSR-40_DA_Screw.ipt": {}
-            }, 
-            "SSR-40_DA_Lock_Washer.ipt": {
-             "SSR-40_DA_Lock_Washer.ipt": {}
-            }
-           }
-          }
-         }
-        }
-       }
-      }, 
-      "SSR-40_DA90": {
-       "SSR-40_DA90": {
-        "SSR-40_DA.iam": {
-         "SSR-40_DA.iam": {
-          "SSR-40_DA_Small_P_W_S.iam41": {
-           "SSR-40_DA_Small_P_W_S.iam41": {
-            "SSR-40_DA_Small_Plate.ipt": {
-             "SSR-40_DA_Small_Plate.ipt": {}
-            }, 
-            "SSR-40_DA_Screw.ipt": {
-             "SSR-40_DA_Screw.ipt": {}
-            }, 
-            "SSR-40_DA_Lock_Washer.ipt": {
-             "SSR-40_DA_Lock_Washer.ipt": {}
-            }
-           }
-          }, 
-          "SSR-40_DA_Large_P_W_S.iam50": {
-           "SSR-40_DA_Large_P_W_S.iam50": {
-            "SSR-40_DA_Big_Plate.ipt": {
-             "SSR-40_DA_Big_Plate.ipt": {}
-            }, 
-            "SSR-40_DA_Screw.ipt": {
-             "SSR-40_DA_Screw.ipt": {}
-            }, 
-            "SSR-40_DA_Lock_Washer.ipt": {
-             "SSR-40_DA_Lock_Washer.ipt": {}
-            }
-           }
-          }, 
-          "SSR-40_DA_Small_P_W_S.iam": {
-           "SSR-40_DA_Small_P_W_S.iam": {
-            "SSR-40_DA_Small_Plate.ipt": {
-             "SSR-40_DA_Small_Plate.ipt": {}
-            }, 
-            "SSR-40_DA_Screw.ipt": {
-             "SSR-40_DA_Screw.ipt": {}
-            }, 
-            "SSR-40_DA_Lock_Washer.ipt": {
-             "SSR-40_DA_Lock_Washer.ipt": {}
-            }
-           }
-          }, 
-          "SSR-40_DA_BOTTOM.ipt": {
-           "SSR-40_DA_BOTTOM.ipt": {}
-          }, 
-          "SSR-40_DA_Large_P_W_S.iam65": {
-           "SSR-40_DA_Large_P_W_S.iam65": {
-            "SSR-40_DA_Big_Plate.ipt": {
-             "SSR-40_DA_Big_Plate.ipt": {}
-            }, 
-            "SSR-40_DA_Screw.ipt": {
-             "SSR-40_DA_Screw.ipt": {}
-            }, 
-            "SSR-40_DA_Lock_Washer.ipt": {
-             "SSR-40_DA_Lock_Washer.ipt": {}
-            }
-           }
-          }, 
-          "SSR-40_DA_TOP.ipt": {
-           "SSR-40_DA_TOP.ipt": {}
-          }
-         }
-        }
-       }
-      }, 
-      "SSR-40_DA91": {
-       "SSR-40_DA91": {
-        "SSR-40_DA.iam86": {
-         "SSR-40_DA.iam86": {
-          "SSR-40_DA_BOTTOM.ipt": {
-           "SSR-40_DA_BOTTOM.ipt": {}
-          }, 
-          "SSR-40_DA_Small_P_W_S.iam55": {
-           "SSR-40_DA_Small_P_W_S.iam55": {
-            "SSR-40_DA_Small_Plate.ipt": {
-             "SSR-40_DA_Small_Plate.ipt": {}
-            }, 
-            "SSR-40_DA_Screw.ipt": {
-             "SSR-40_DA_Screw.ipt": {}
-            }, 
-            "SSR-40_DA_Lock_Washer.ipt": {
-             "SSR-40_DA_Lock_Washer.ipt": {}
-            }
-           }
-          }, 
-          "SSR-40_DA_Small_P_W_S.iam29": {
-           "SSR-40_DA_Small_P_W_S.iam29": {
-            "SSR-40_DA_Small_Plate.ipt": {
-             "SSR-40_DA_Small_Plate.ipt": {}
-            }, 
-            "SSR-40_DA_Screw.ipt": {
-             "SSR-40_DA_Screw.ipt": {}
-            }, 
-            "SSR-40_DA_Lock_Washer.ipt": {
-             "SSR-40_DA_Lock_Washer.ipt": {}
-            }
-           }
-          }, 
-          "SSR-40_DA_TOP.ipt": {
-           "SSR-40_DA_TOP.ipt": {}
-          }, 
-          "SSR-40_DA_Large_P_W_S.iam69": {
-           "SSR-40_DA_Large_P_W_S.iam69": {
-            "SSR-40_DA_Big_Plate.ipt": {
-             "SSR-40_DA_Big_Plate.ipt": {}
-            }, 
-            "SSR-40_DA_Screw.ipt": {
-             "SSR-40_DA_Screw.ipt": {}
-            }, 
-            "SSR-40_DA_Lock_Washer.ipt": {
-             "SSR-40_DA_Lock_Washer.ipt": {}
-            }
-           }
-          }, 
-          "SSR-40_DA_Large_P_W_S.iam26": {
-           "SSR-40_DA_Large_P_W_S.iam26": {
-            "SSR-40_DA_Big_Plate.ipt": {
-             "SSR-40_DA_Big_Plate.ipt": {}
-            }, 
-            "SSR-40_DA_Screw.ipt": {
-             "SSR-40_DA_Screw.ipt": {}
-            }, 
-            "SSR-40_DA_Lock_Washer.ipt": {
-             "SSR-40_DA_Lock_Washer.ipt": {}
-            }
-           }
-          }
-         }
-        }
-       }
-      }, 
-      "SC4-4": {
-       "SC4-4": {}
-      }, 
-      "Wago_221-415": {
-       "Wago_221-415": {}
-      }
-     }
-    }, 
-    "Gegenpressring_Spannbuchse_Extruder": {
-     "Gegenpressring_Spannbuchse_Extruder": {}
-    }, 
-    "Stopmutter_M12": {
-     "Stopmutter_M12": {}
-    }, 
-    "Riemenrad_M-dler_HTD_3M_20Z_17022000": {
-     "Riemenrad_M-dler_HTD_3M_20Z_17022000": {}
-    }, 
-    "Linearachse_Festo_EGC-80-1500-BS-10P-KF-0H-ML-GK.stp": {
-     "Linearachse_Festo_EGC-80-1500-BS-10P-KF-0H-ML-GK.stp": {}
-    }, 
-    "BG_PCB_Extruder": {
-     "BG_PCB_Extruder": {
-      "Geh-use_PCB_Extruder": {
-       "Geh-use_PCB_Extruder": {}
-      }, 
-      "Extruder_PCB_Silkscreen": {
-       "Extruder_PCB_Silkscreen": {}
-      }, 
-      "PCB_Extruder": {
-       "PCB_Extruder": {}
-      }
-     }
-    }, 
-    "Tank_lange_Kante": {
-     "Tank_lange_Kante": {}
-    }, 
-    "Zusatzhalterung_Lager": {
-     "Zusatzhalterung_Lager": {}
-    }, 
-    "PFC1212DE-F00": {
-     "PFC1212DE-F00": {}
-    }, 
-    "Tank_BlechBefestigung": {
-     "Tank_BlechBefestigung": {}
-    }, 
-    "Verschraubplatten_LinearachsenZ": {
-     "Verschraubplatten_LinearachsenZ": {}
-    }, 
-    "Wasserk-hlung_Radiator_Blech_Befestigung": {
-     "Wasserk-hlung_Radiator_Blech_Befestigung": {}
-    }, 
-    "Schraubklotz_Fr-steil_Extruder": {
-     "Schraubklotz_Fr-steil_Extruder": {}
-    }, 
-    "Riemen2-3": {
-     "Riemen2-3": {}
-    }, 
-    "Halterung_Extruder_Fr-steil": {
-     "Halterung_Extruder_Fr-steil": {}
-    }, 
-    "Tank_Unterteilung_Fenster": {
-     "Tank_Unterteilung_Fenster": {}
-    }, 
-    "Extruder_IDE": {
-     "Extruder_IDE": {
-      "015921": {
-       "015921": {}
-      }, 
-      "093713": {
-       "093713": {}
-      }, 
-      "006603": {
-       "006603": {}
-      }, 
-      "037406": {
-       "037406": {}
-      }, 
-      "Scheibe_Nozzle": {
-       "Scheibe_Nozzle": {}
-      }, 
-      "064576": {
-       "064576": {}
-      }, 
-      "nozzle": {
-       "nozzle": {}
-      }, 
-      "DIN_936_14_H_M52x3_Stahl": {
-       "DIN_936_14_H_M52x3_Stahl": {}
-      }, 
-      "IDE_Schnecke_Extruder": {
-       "IDE_Schnecke_Extruder": {
-        "Block_04": {
-         "Block_04": {}
-        }
-       }
-      }, 
-      "006252": {
-       "006252": {}
-      }, 
-      "093723": {
-       "093723": {}
-      }
-     }
-    }, 
-    "Stepper_Nanotec_Nema_34_+_Encoder_+_Brake27": {
-     "Stepper_Nanotec_Nema_34_+_Encoder_+_Brake27": {
-      "WEDS5541-Bxx002": {
-       "WEDS5541-Bxx002": {}
-      }, 
-      "Brake-BKE-2_0-6_35.stp002": {
-       "Brake-BKE-2_0-6_35.stp002": {}
-      }, 
-      "ST8918S4508-B002": {
-       "ST8918S4508-B002": {}
-      }
-     }
-    }, 
-    "L-fterblech": {
-     "L-fterblech": {}
-    }, 
-    "Farbmischer_Motortreiberhalter": {
-     "Farbmischer_Motortreiberhalter": {}
-    }, 
-    "Kabelhalter_m5": {
-     "Kabelhalter_m5": {}
-    }, 
-    "Schlauch_Exit": {
-     "Schlauch_Exit": {}
-    }, 
-    "Linearachse_Festo_EGC-80-1500-BS-10P-KF-0H-MR-GK.stp": {
-     "Linearachse_Festo_EGC-80-1500-BS-10P-KF-0H-MR-GK.stp": {}
-    }, 
-    "Verschraubplatten_LinearachsenZ_ventil": {
-     "Verschraubplatten_LinearachsenZ_ventil": {}
-    }, 
-    "Farbmischer_Motortreiberhalter_Deckel": {
-     "Farbmischer_Motortreiberhalter_Deckel": {}
-    }, 
-    "Wasserk-hlung_Radiator": {
-     "Wasserk-hlung_Radiator": {
-      "Radiator_120-360-45": {
-       "Radiator_120-360-45": {}
-      }, 
-      "L-fter_120mm_platine": {
-       "L-fter_120mm_platine": {
-        "Block_05": {
-         "Block_05": {}
-        }
-       }
-      }
-     }
-    }, 
-    "rotery_encoder_encoder_NUE": {
-     "rotery_encoder_encoder_NUE": {}
-    }, 
-    "Axiallager_Nadelrollen_SKF_AXW_20": {
-     "Axiallager_Nadelrollen_SKF_AXW_20": {}
-    }, 
-    "Tank_Blech_Abschluss_unteb": {
-     "Tank_Blech_Abschluss_unteb": {}
-    }, 
-    "Granulattank_Blech_au-en": {
-     "Granulattank_Blech_au-en": {}
-    }, 
-    "Energiekette_Z_Achse": {
-     "Energiekette_Z_Achse": {
-      "Igus_Energiekette_Mittelstueck_S2500_07_075_0_1": {
-       "Igus_Energiekette_Mittelstueck_S2500_07_075_0_1": {}
-      }, 
-      "Igus_Energiekette_Festpunkt_starr_mit_Kamm_S2500_07_075": {
-       "Igus_Energiekette_Festpunkt_starr_mit_Kamm_S2500_07_075": {}
-      }
-     }
-    }, 
-    "M5_Innensechskant_20": {
-     "M5_Innensechskant_20": {}
-    }, 
-    "Tank_schiefer_Winkel": {
-     "Tank_schiefer_Winkel": {}
-    }, 
-    "Verschraubplatten_LinearachsenZ_energiekette": {
-     "Verschraubplatten_LinearachsenZ_energiekette": {}
-    }, 
-    "Stepper_Nanotec_Nema_34_+_Encoder_+_Brake": {
-     "Stepper_Nanotec_Nema_34_+_Encoder_+_Brake": {
-      "WEDS5541-Bxx002": {
-       "WEDS5541-Bxx002": {}
-      }, 
-      "Brake-BKE-2_0-6_35.stp002": {
-       "Brake-BKE-2_0-6_35.stp002": {}
-      }, 
-      "ST8918S4508-B002": {
-       "ST8918S4508-B002": {}
-      }
-     }
-    }, 
-    "Halterung_Motoren_Z_Achse": {
-     "Halterung_Motoren_Z_Achse": {}
-    }, 
-    "Tank_Fenster_unten": {
-     "Tank_Fenster_unten": {}
-    }, 
-    "C5-E": {
-     "C5-E": {}
-    }, 
-    "Spannbuchse_M-dler_61530020.stp": {
-     "Spannbuchse_M-dler_61530020.stp": {}
-    }, 
-    "Schraubklotz_Fr-steil_Extruder_kleiner": {
-     "Schraubklotz_Fr-steil_Extruder_kleiner": {}
-    }, 
-    "Tank_Blech_Abschluss_oben": {
-     "Tank_Blech_Abschluss_oben": {}
-    }, 
-    "Zusatzhalterung_Lager_zu": {
-     "Zusatzhalterung_Lager_zu": {}
-    }, 
-    "Abdeckung_Farbmischer": {
-     "Abdeckung_Farbmischer": {}
-    }, 
-    "Displayhalteplatte": {
-     "Displayhalteplatte": {}
-    }, 
-    "Spiegelngeh-use_Endstop_z": {
-     "Spiegelngeh-use_Endstop_z": {}
-    }, 
-    "Wasserk-hlung_Reservoir": {
-     "Wasserk-hlung_Reservoir": {
-      "Strebe_Wasserk-hlung_Reservoir": {
-       "Strebe_Wasserk-hlung_Reservoir": {}
-      }, 
-      "Halterung_Wasserk-hlung_Reservoir": {
-       "Halterung_Wasserk-hlung_Reservoir": {}
-      }, 
-      "Wasserk-hlung_Reservoir_EisstationVPP_Shrink": {
-       "Wasserk-hlung_Reservoir_EisstationVPP_Shrink": {
-        "Block_01": {
-         "Block_01": {}
-        }
-       }
-      }
-     }
-    }, 
-    "HDT_3M_40Z_17024000": {
-     "HDT_3M_40Z_17024000": {}
-    }, 
-    "Tank_Versteifung_Fenster": {
-     "Tank_Versteifung_Fenster": {}
-    }, 
-    "Festo_Schlitten_EGC-80-GK-GPBS1": {
-     "Festo_Schlitten_EGC-80-GK-GPBS1": {}
-    }
-   }
+  "Einlauf": {
+   "Einlauf_Extruder": {}, 
+   "Einlauf_Auslaufteil": {}
   }, 
-  "Frame_Bottom": {
-   "Frame_Bottom": {
-    "WheelAttachment_BackLeft": {
-     "WheelAttachment_BackLeft": {
-      "unterlegscheibe_m3": {
-       "unterlegscheibe_m3": {}
-      }, 
-      "W_61906_R_2Z": {
-       "W_61906_R_2Z": {
-        "_W_61906_R_2Z_PART1_2": {
-         "_W_61906_R_2Z_PART1_2": {}
-        }, 
-        "_W_61906_R_2Z_PART3_6": {
-         "_W_61906_R_2Z_PART3_6": {}
-        }, 
-        "_W_61906_R_2Z_PART2_4": {
-         "_W_61906_R_2Z_PART2_4": {}
-        }
-       }
-      }, 
-      "3dhalterlagerkegel": {
-       "3dhalterlagerkegel": {}
-      }, 
-      "blech_kugellager_rad": {
-       "blech_kugellager_rad": {}
-      }, 
-      "stab": {
-       "stab": {}
-      }, 
-      "M3_Innensechskant_55": {
-       "M3_Innensechskant_55": {}
-      }, 
-      "haltung_rad": {
-       "haltung_rad": {}
-      }, 
-      "17HS15-1684S-PG100_Varsay-lan": {
-       "17HS15-1684S-PG100_Varsay-lan": {
-        "Block_06": {
-         "Block_06": {}
-        }
-       }
-      }, 
-      "blech_geared_motor": {
-       "blech_geared_motor": {}
-      }, 
-      "radaufhaengung_3mm": {
-       "radaufhaengung_3mm": {}
-      }, 
-      "5m_rad_rad_17234400": {
-       "5m_rad_rad_17234400": {}
-      }, 
-      "Riemen_Radaufh-ngung_Vorne": {
-       "Riemen_Radaufh-ngung_Vorne": {}
-      }, 
-      "druckrad_8er_welle17221800": {
-       "druckrad_8er_welle17221800": {}
-      }, 
-      "3020418": {
-       "3020418": {
-        "_30204_ir_2": {
-         "_30204_ir_2": {}
-        }, 
-        "_30204_or_22": {
-         "_30204_or_22": {}
-        }, 
-        "_30204_roller_6": {
-         "_30204_roller_6": {}
-        }, 
-        "_30204_cage_4": {
-         "_30204_cage_4": {}
-        }
-       }
-      }, 
-      "raedervogel_raeder_2946005000": {
-       "raedervogel_raeder_2946005000": {}
-      }
-     }
-    }, 
-    "WheelAttachment_FrontLeft": {
-     "WheelAttachment_FrontLeft": {
-      "17237200": {
-       "17237200": {}
-      }, 
-      "17HS15-1684S-PG100_Varsay-lan": {
-       "17HS15-1684S-PG100_Varsay-lan": {
-        "Block_06": {
-         "Block_06": {}
-        }
-       }
-      }, 
-      "raedervogel_raeder_2946005000_nackt": {
-       "raedervogel_raeder_2946005000_nackt": {}
-      }, 
-      "welle12": {
-       "welle12": {}
-      }, 
-      "druckrad_8er_welle17221800": {
-       "druckrad_8er_welle17221800": {}
-      }, 
-      "64641201.stp": {
-       "64641201.stp": {}
-      }, 
-      "Riemen1-1^Radaufh-ngung_hinten": {
-       "Riemen1-1^Radaufh-ngung_hinten": {}
-      }
-     }
-    }, 
-    "WheelAttachment_BackRight": {
-     "WheelAttachment_BackRight": {
-      "unterlegscheibe_m3": {
-       "unterlegscheibe_m3": {}
-      }, 
-      "3dhalterlagerkegel": {
-       "3dhalterlagerkegel": {}
-      }, 
-      "blech_kugellager_rad": {
-       "blech_kugellager_rad": {}
-      }, 
-      "stab": {
-       "stab": {}
-      }, 
-      "M3_Innensechskant_55": {
-       "M3_Innensechskant_55": {}
-      }, 
-      "haltung_rad": {
-       "haltung_rad": {}
-      }, 
-      "17HS15-1684S-PG100_Varsay-lan": {
-       "17HS15-1684S-PG100_Varsay-lan": {
-        "Block_06": {
-         "Block_06": {}
-        }
-       }
-      }, 
-      "blech_geared_motor": {
-       "blech_geared_motor": {}
-      }, 
-      "30204": {
-       "30204": {
-        "_30204_ir_2": {
-         "_30204_ir_2": {}
-        }, 
-        "_30204_or_22": {
-         "_30204_or_22": {}
-        }, 
-        "_30204_roller_6": {
-         "_30204_roller_6": {}
-        }, 
-        "_30204_cage_4": {
-         "_30204_cage_4": {}
-        }
-       }
-      }, 
-      "radaufhaengung_3mm": {
-       "radaufhaengung_3mm": {}
-      }, 
-      "5m_rad_rad_17234400": {
-       "5m_rad_rad_17234400": {}
-      }, 
-      "Riemen_Radaufh-ngung_Vorne": {
-       "Riemen_Radaufh-ngung_Vorne": {}
-      }, 
-      "W_61906_R_2Z57": {
-       "W_61906_R_2Z57": {
-        "_W_61906_R_2Z_PART1_2": {
-         "_W_61906_R_2Z_PART1_2": {}
-        }, 
-        "_W_61906_R_2Z_PART3_6": {
-         "_W_61906_R_2Z_PART3_6": {}
-        }, 
-        "_W_61906_R_2Z_PART2_4": {
-         "_W_61906_R_2Z_PART2_4": {}
-        }
-       }
-      }, 
-      "druckrad_8er_welle17221800": {
-       "druckrad_8er_welle17221800": {}
-      }, 
-      "raedervogel_raeder_2946005000": {
-       "raedervogel_raeder_2946005000": {}
-      }
-     }
-    }, 
-    "WheelAttachment_FrontRight": {
-     "WheelAttachment_FrontRight": {
-      "17237200": {
-       "17237200": {}
-      }, 
-      "17HS15-1684S-PG100_Varsay-lan": {
-       "17HS15-1684S-PG100_Varsay-lan": {
-        "Block_06": {
-         "Block_06": {}
-        }
-       }
-      }, 
-      "raedervogel_raeder_2946005000_nackt": {
-       "raedervogel_raeder_2946005000_nackt": {}
-      }, 
-      "welle12": {
-       "welle12": {}
-      }, 
-      "druckrad_8er_welle17221800": {
-       "druckrad_8er_welle17221800": {}
-      }, 
-      "64641201.stp": {
-       "64641201.stp": {}
-      }, 
-      "Riemen1-1^Radaufh-ngung_hinten": {
-       "Riemen1-1^Radaufh-ngung_hinten": {}
-      }
-     }
-    }, 
-    "Corner_Brackets": {
-     "Corner_Brackets": {}
-    }, 
-    "AL_Extrusion_Profiles": {
-     "AL_Extrusion_Profiles": {
-      "Aluprofil_40X40_L_2520": {
-       "Aluprofil_40X40_L_2520": {}
-      }, 
-      "Aluprofil_40X80_L_140_unten": {
-       "Aluprofil_40X80_L_140_unten": {}
-      }, 
-      "Aluprofil_40X80_L_1823": {
-       "Aluprofil_40X80_L_1823": {}
-      }, 
-      "Aluprofil_40X40_L_260": {
-       "Aluprofil_40X40_L_260": {}
-      }, 
-      "Aluprofil_40X40_L_140_unten": {
-       "Aluprofil_40X40_L_140_unten": {}
-      }, 
-      "Aluprofil_40X80_L_220": {
-       "Aluprofil_40X80_L_220": {}
-      }, 
-      "Aluprofil_40X80_L_220_2": {
-       "Aluprofil_40X80_L_220_2": {}
-      }, 
-      "Aluprofil_40X80_L_450_diagonal": {
-       "Aluprofil_40X80_L_450_diagonal": {}
-      }, 
-      "Aluprofil_40X40_L_220": {
-       "Aluprofil_40X40_L_220": {}
-      }, 
-      "Aluprofil_40X40_L_1823": {
-       "Aluprofil_40X40_L_1823": {}
-      }, 
-      "Aluprofil_40X40_L_220_#2": {
-       "Aluprofil_40X40_L_220_#2": {}
-      }, 
-      "Aluprofil_40X80_L_2520": {
-       "Aluprofil_40X80_L_2520": {}
-      }, 
-      "Aluprofil_40X80_L_53": {
-       "Aluprofil_40X80_L_53": {}
-      }, 
-      "Aluprofil_40X40_L_220_2": {
-       "Aluprofil_40X40_L_220_2": {}
-      }
+  "Treiber_Nanotec_N5_Modbus_RTU": {}, 
+  "Tank_Fenster_mitte": {}, 
+  "Tank_Trichter_Blech": {}, 
+  "Hitzeschild_Extruder_Trichter": {}, 
+  "Endstopliner_z": {}, 
+  "Seite_L-fter": {}, 
+  "Kondensator_Servomotor": {}, 
+  "Riemenrad_M-dler_HTD_3M_36Z_17023600": {}, 
+  "Trichter_Granulat": {}, 
+  "Tank_Fenster_oben": {}, 
+  "Servo_Extruderantrieb": {
+   "Getriebe_Servo_Nanotec_GPLE80-2S-F87": {
+    "Getriebe_Servo_Nanotec_210-217_065-001": {}, 
+    "Getriebe_Servo_Nanotec_PLE80_2_14_38_73_98P4_B5_M6": {}
+   }, 
+   "Servo_Nanotec_DB87L": {}
+  }, 
+  "geh-use_Endstop_z": {}, 
+  "Riemen1-2": {}, 
+  "Relayeinheit_AC": {
+   "Box_AC_Relays_Deckel": {}, 
+   "SSR-40_DA": {
+    "SSR-40_DA_iam88": {
+     "SSR-40_DA_BOTTOM_ipt": {}, 
+     "SSR-40_DA_Small_P_W_S_iam64": {
+      "SSR-40_DA_Screw_ipt": {}, 
+      "SSR-40_DA_Lock_Washer_ipt": {}, 
+      "SSR-40_DA_Small_Plate_ipt": {}
+     }, 
+     "SSR-40_DA_TOP_ipt": {}, 
+     "SSR-40_DA_Large_P_W_S_iam77": {
+      "SSR-40_DA_Screw_ipt": {}, 
+      "SSR-40_DA_Lock_Washer_ipt": {}, 
+      "SSR-40_DA_Big_Plate_ipt": {}
+     }, 
+     "SSR-40_DA_Large_P_W_S_iam63": {
+      "SSR-40_DA_Screw_ipt": {}, 
+      "SSR-40_DA_Lock_Washer_ipt": {}, 
+      "SSR-40_DA_Big_Plate_ipt": {}
+     }, 
+     "SSR-40_DA_Small_P_W_S_iam46": {
+      "SSR-40_DA_Screw_ipt": {}, 
+      "SSR-40_DA_Lock_Washer_ipt": {}, 
+      "SSR-40_DA_Small_Plate_ipt": {}
      }
     }
-   }
-  }, 
-  "Switch_Cabinet": {
-   "Switch_Cabinet": {
-    "Terminal_Oben_Mitte": {
-     "Terminal_Oben_Mitte": {
-      "Siemens_obenrum_Terminal_mitte": {
-       "Siemens_obenrum_Terminal_mitte": {}
-      }, 
-      "832_1103_037_000": {
-       "832_1103_037_000": {}
-      }, 
-      "832_1204": {
-       "832_1204": {}
-      }, 
-      "832_1104_037_000": {
-       "832_1104_037_000": {
-        "Block_02": {
-         "Block_02": {}
-        }
-       }
-      }, 
-      "832_1203": {
-       "832_1203": {}
-      }, 
-      "wago_4er_block": {
-       "wago_4er_block": {
-        "wago_18_pcb": {
-         "wago_18_pcb": {}
-        }, 
-        "713_1430_037_000": {
-         "713_1430_037_000": {}
-        }
-       }
-      }
-     }
-    }, 
-    "Reset": {
-     "Reset": {
-      "Terminal_Notaus": {
-       "Terminal_Notaus": {}
-      }, 
-      "Siemens_Reset_3su18030ab002ab1": {
-       "Siemens_Reset_3su18030ab002ab1": {}
-      }, 
-      "XT60E-M": {
-       "XT60E-M": {}
-      }
-     }
-    }, 
-    "Abdeckung_Wago_20": {
-     "Abdeckung_Wago_20": {}
-    }, 
-    "sss_5": {
-     "sss_5": {}
-    }, 
-    "sss_4": {
-     "sss_4": {}
-    }, 
-    "sss_7": {
-     "sss_7": {}
-    }, 
-    "sss_6": {
-     "sss_6": {}
-    }, 
-    "sss_1": {
-     "sss_1": {}
-    }, 
-    "sss_3": {
-     "sss_3": {}
-    }, 
-    "sss_2": {
-     "sss_2": {}
-    }, 
-    "Terminal_Oben_Rechts": {
-     "Terminal_Oben_Rechts": {
-      "Siemens_obenrum_Terminal_rechts": {
-       "Siemens_obenrum_Terminal_rechts": {}
-      }, 
-      "Terminal_Oben_Rechts_Abdeckung": {
-       "Terminal_Oben_Rechts_Abdeckung": {}
-      }, 
-      "XT60E-M": {
-       "XT60E-M": {}
-      }, 
-      "RJ45_Terminal": {
-       "RJ45_Terminal": {
-        "RJ4514": {
-         "RJ4514": {
-          "RJ45_housing_2": {
-           "RJ45_housing_2": {}
-          }, 
-          "RJ45_housing_1": {
-           "RJ45_housing_1": {}
-          }
-         }
-        }, 
-        "RJ4575": {
-         "RJ4575": {
-          "RJ45_housing_2": {
-           "RJ45_housing_2": {}
-          }, 
-          "RJ45_housing_1": {
-           "RJ45_housing_1": {}
-          }
-         }
-        }, 
-        "RJ45": {
-         "RJ45": {
-          "RJ45_housing_2": {
-           "RJ45_housing_2": {}
-          }, 
-          "RJ45_housing_1": {
-           "RJ45_housing_1": {}
-          }
-         }
-        }, 
-        "RJ4545": {
-         "RJ4545": {
-          "RJ45_housing_2": {
-           "RJ45_housing_2": {}
-          }, 
-          "RJ45_housing_1": {
-           "RJ45_housing_1": {}
-          }
-         }
-        }, 
-        "RJ4517": {
-         "RJ4517": {
-          "RJ45_housing_2": {
-           "RJ45_housing_2": {}
-          }, 
-          "RJ45_housing_1": {
-           "RJ45_housing_1": {}
-          }
-         }
-        }, 
-        "RJ455": {
-         "RJ455": {
-          "RJ45_housing_2": {
-           "RJ45_housing_2": {}
-          }, 
-          "RJ45_housing_1": {
-           "RJ45_housing_1": {}
-          }
-         }
-        }, 
-        "RJ4520": {
-         "RJ4520": {
-          "RJ45_housing_2": {
-           "RJ45_housing_2": {}
-          }, 
-          "RJ45_housing_1": {
-           "RJ45_housing_1": {}
-          }
-         }
-        }, 
-        "RJ4521": {
-         "RJ4521": {
-          "RJ45_housing_2": {
-           "RJ45_housing_2": {}
-          }, 
-          "RJ45_housing_1": {
-           "RJ45_housing_1": {}
-          }
-         }
-        }, 
-        "RJ4539": {
-         "RJ4539": {
-          "RJ45_housing_2": {
-           "RJ45_housing_2": {}
-          }, 
-          "RJ45_housing_1": {
-           "RJ45_housing_1": {}
-          }
-         }
-        }, 
-        "RJ459": {
-         "RJ459": {
-          "RJ45_housing_2": {
-           "RJ45_housing_2": {}
-          }, 
-          "RJ45_housing_1": {
-           "RJ45_housing_1": {}
-          }
-         }
-        }, 
-        "Platine_RJ45_Terminal": {
-         "Platine_RJ45_Terminal": {}
-        }, 
-        "RJ4534": {
-         "RJ4534": {
-          "RJ45_housing_2": {
-           "RJ45_housing_2": {}
-          }, 
-          "RJ45_housing_1": {
-           "RJ45_housing_1": {}
-          }
-         }
-        }, 
-        "RJ4524": {
-         "RJ4524": {
-          "RJ45_housing_2": {
-           "RJ45_housing_2": {}
-          }, 
-          "RJ45_housing_1": {
-           "RJ45_housing_1": {}
-          }
-         }
-        }
-       }
-      }
+   }, 
+   "Box_AC_Relays": {}, 
+   "SSR-40_DA93": {
+    "SSR-40_DA_iam89": {
+     "SSR-40_DA_Small_P_W_S_iam84": {
+      "SSR-40_DA_Screw_ipt": {}, 
+      "SSR-40_DA_Lock_Washer_ipt": {}, 
+      "SSR-40_DA_Small_Plate_ipt": {}
+     }, 
+     "SSR-40_DA_BOTTOM_ipt": {}, 
+     "SSR-40_DA_Large_P_W_S_iam43": {
+      "SSR-40_DA_Screw_ipt": {}, 
+      "SSR-40_DA_Lock_Washer_ipt": {}, 
+      "SSR-40_DA_Big_Plate_ipt": {}
+     }, 
+     "SSR-40_DA_TOP_ipt": {}, 
+     "SSR-40_DA_Small_P_W_S_iam32": {
+      "SSR-40_DA_Screw_ipt": {}, 
+      "SSR-40_DA_Lock_Washer_ipt": {}, 
+      "SSR-40_DA_Small_Plate_ipt": {}
+     }, 
+     "SSR-40_DA_Large_P_W_S_iam": {
+      "SSR-40_DA_Screw_ipt": {}, 
+      "SSR-40_DA_Lock_Washer_ipt": {}, 
+      "SSR-40_DA_Big_Plate_ipt": {}
      }
     }
-   }
-  }, 
-  "Stopper": {
-   "Stopper": {}
-  }, 
-  "X-Axis_Carriage": {
-   "X-Axis_Carriage": {
-    "Aluprofil_40X80_L_475": {
-     "Aluprofil_40X80_L_475": {}
-    }, 
-    "Ringmagnet_10,0_x_3,4_x_3,0": {
-     "Ringmagnet_10,0_x_3,4_x_3,0": {}
-    }, 
-    "Adapterplatte_Schlitten_X": {
-     "Adapterplatte_Schlitten_X": {}
-    }, 
-    "M5_Vierkantmutter": {
-     "M5_Vierkantmutter": {}
-    }, 
-    "CoreXY_Riemenhalter": {
-     "CoreXY_Riemenhalter": {
-      "CoreXY_Riemenhalter_-_nackt": {
-       "CoreXY_Riemenhalter_-_nackt": {}
-      }, 
-      "CoreXY_Riemenhalter_-_Strebe": {
-       "CoreXY_Riemenhalter_-_Strebe": {}
-      }
+   }, 
+   "SSR-40_DA90": {
+    "SSR-40_DA_iam": {
+     "SSR-40_DA_BOTTOM_ipt": {}, 
+     "SSR-40_DA_Large_P_W_S_iam50": {
+      "SSR-40_DA_Screw_ipt": {}, 
+      "SSR-40_DA_Lock_Washer_ipt": {}, 
+      "SSR-40_DA_Big_Plate_ipt": {}
+     }, 
+     "SSR-40_DA_TOP_ipt": {}, 
+     "SSR-40_DA_Large_P_W_S_iam65": {
+      "SSR-40_DA_Screw_ipt": {}, 
+      "SSR-40_DA_Lock_Washer_ipt": {}, 
+      "SSR-40_DA_Big_Plate_ipt": {}
+     }, 
+     "SSR-40_DA_Small_P_W_S_iam41": {
+      "SSR-40_DA_Screw_ipt": {}, 
+      "SSR-40_DA_Lock_Washer_ipt": {}, 
+      "SSR-40_DA_Small_Plate_ipt": {}
+     }, 
+     "SSR-40_DA_Small_P_W_S_iam": {
+      "SSR-40_DA_Screw_ipt": {}, 
+      "SSR-40_DA_Lock_Washer_ipt": {}, 
+      "SSR-40_DA_Small_Plate_ipt": {}
      }
-    }, 
-    "Terminal_xy92": {
-     "Terminal_xy92": {
-      "Terminal_xy": {
-       "Terminal_xy": {}
-      }, 
-      "Deckel_Terminal": {
-       "Deckel_Terminal": {}
-      }, 
-      "XT60E-M": {
-       "XT60E-M": {}
-      }, 
-      "Terminal_xy_komponenten": {
-       "Terminal_xy_komponenten": {
-        "832_1103_037_000": {
-         "832_1103_037_000": {}
-        }, 
-        "832_1204": {
-         "832_1204": {}
-        }, 
-        "832_1203": {
-         "832_1203": {}
-        }, 
-        "832_1104_037_000": {
-         "832_1104_037_000": {
-          "Block_02": {
-           "Block_02": {}
-          }
-         }
-        }, 
-        "wago_4er_block_obenkontakt": {
-         "wago_4er_block_obenkontakt": {
-          "wago_18_pcb_abgeschliffen": {
-           "wago_18_pcb_abgeschliffen": {}
-          }, 
-          "713_1430_037_000": {
-           "713_1430_037_000": {}
-          }
-         }
-        }
-       }
-      }
-     }
-    }, 
-    "Endstop_Siemens_3SE5423-0CD20-1EA2_G_NSA0_XX_01527V": {
-     "Endstop_Siemens_3SE5423-0CD20-1EA2_G_NSA0_XX_01527V": {
-      "5": {
-       "5": {}
-      }, 
-      "4": {
-       "4": {}
-      }, 
-      "7": {
-       "7": {}
-      }, 
-      "6": {
-       "6": {}
-      }, 
-      "1": {
-       "1": {}
-      }, 
-      "3": {
-       "3": {}
-      }, 
-      "2": {
-       "2": {}
-      }
-     }
-    }, 
-    "Franka_Schlitten_84363A-Kassette-FDA25K098": {
-     "Franka_Schlitten_84363A-Kassette-FDA25K098": {}
-    }, 
-    "Abnehmer_starr_kamm_S2500_07_075002": {
-     "Abnehmer_starr_kamm_S2500_07_075002": {}
-    }, 
-    "Flachwinkel_80x80": {
-     "Flachwinkel_80x80": {}
-    }, 
-    "Aluprofil_40X80_L_320": {
-     "Aluprofil_40X80_L_320": {}
-    }, 
-    "Corner_Bracket_80x80": {
-     "Corner_Bracket_80x80": {}
-    }, 
-    "Halteplatte_Festo_Schlitten_B": {
-     "Halteplatte_Festo_Schlitten_B": {}
-    }, 
-    "Halteplatte_Festo_Schlitten_A": {
-     "Halteplatte_Festo_Schlitten_A": {}
-    }, 
-    "Aluprofil_40X40_L_145": {
-     "Aluprofil_40X40_L_145": {}
-    }, 
-    "Energiekettenhalter_X_oben": {
-     "Energiekettenhalter_X_oben": {}
-    }, 
-    "Riemenstange": {
-     "Riemenstange": {}
-    }, 
-    "CoreXY_Riemenhalter_endstop": {
-     "CoreXY_Riemenhalter_endstop": {
-      "CoreXY_Riemenhalter_-_nackt": {
-       "CoreXY_Riemenhalter_-_nackt": {}
-      }, 
-      "CoreXY_Riemenhalter_-_Strebe": {
-       "CoreXY_Riemenhalter_-_Strebe": {}
-      }
-     }
-    }, 
-    "Riemenspanner": {
-     "Riemenspanner": {}
-    }, 
-    "M5_Innensechskant_2_40": {
-     "M5_Innensechskant_2_40": {}
-    }, 
-    "Festo_Schlitten_EGC-80-GK-GPBS1": {
-     "Festo_Schlitten_EGC-80-GK-GPBS1": {}
     }
-   }
-  }, 
-  "Umlenkrolle_CoreXY_Riemenzug": {
-   "Umlenkrolle_CoreXY_Riemenzug": {}
-  }, 
-  "Schlitten_Y": {
-   "Schlitten_Y": {
-    "Winkelset11": {
-     "Winkelset11": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
+   }, 
+   "SSR-40_DA91": {
+    "SSR-40_DA_iam86": {
+     "SSR-40_DA_Small_P_W_S_iam29": {
+      "SSR-40_DA_Screw_ipt": {}, 
+      "SSR-40_DA_Lock_Washer_ipt": {}, 
+      "SSR-40_DA_Small_Plate_ipt": {}
+     }, 
+     "SSR-40_DA_BOTTOM_ipt": {}, 
+     "SSR-40_DA_TOP_ipt": {}, 
+     "SSR-40_DA_Small_P_W_S_iam55": {
+      "SSR-40_DA_Screw_ipt": {}, 
+      "SSR-40_DA_Lock_Washer_ipt": {}, 
+      "SSR-40_DA_Small_Plate_ipt": {}
+     }, 
+     "SSR-40_DA_Large_P_W_S_iam69": {
+      "SSR-40_DA_Screw_ipt": {}, 
+      "SSR-40_DA_Lock_Washer_ipt": {}, 
+      "SSR-40_DA_Big_Plate_ipt": {}
+     }, 
+     "SSR-40_DA_Large_P_W_S_iam26": {
+      "SSR-40_DA_Screw_ipt": {}, 
+      "SSR-40_DA_Lock_Washer_ipt": {}, 
+      "SSR-40_DA_Big_Plate_ipt": {}
      }
-    }, 
-    "Energiekette_X": {
-     "Energiekette_X": {
-      "Igus_Energiekette_Mittelstueck_S2500_07_075_0_1": {
-       "Igus_Energiekette_Mittelstueck_S2500_07_075_0_1": {}
-      }, 
-      "Igus_Energiekette_Festpunkt_starr_mit_Kamm_S2500_07_075": {
-       "Igus_Energiekette_Festpunkt_starr_mit_Kamm_S2500_07_075": {}
-      }
-     }
-    }, 
-    "Riemenrollenhalter58": {
-     "Riemenrollenhalter58": {
-      "Riemenrollenhalter_Seite": {
-       "Riemenrollenhalter_Seite": {}
-      }, 
-      "Riemenrollenhalter_Winkelteil": {
-       "Riemenrollenhalter_Winkelteil": {}
-      }
-     }
-    }, 
-    "Aluprofil_40X40_L_1838": {
-     "Aluprofil_40X40_L_1838": {}
-    }, 
-    "Linearachse_Franka_FD25_1700": {
-     "Linearachse_Franka_FD25_1700": {}
-    }, 
-    "Aluprofil_40X80_L_395": {
-     "Aluprofil_40X80_L_395": {}
-    }, 
-    "Winkelset": {
-     "Winkelset": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Riemenrollenhalter47": {
-     "Riemenrollenhalter47": {
-      "Riemenrollenhalter_Seite": {
-       "Riemenrollenhalter_Seite": {}
-      }, 
-      "Riemenrollenhalter_Winkelteil": {
-       "Riemenrollenhalter_Winkelteil": {}
-      }
-     }
-    }, 
-    "Riemenrollenhalter67": {
-     "Riemenrollenhalter67": {
-      "Riemenrollenhalter_Seite": {
-       "Riemenrollenhalter_Seite": {}
-      }, 
-      "Riemenrollenhalter_Winkelteil": {
-       "Riemenrollenhalter_Winkelteil": {}
-      }
-     }
-    }, 
-    "Aluprofil_40X80_L_1960": {
-     "Aluprofil_40X80_L_1960": {}
-    }, 
-    "Aluprofil_40X40_L_122": {
-     "Aluprofil_40X40_L_122": {}
-    }, 
-    "Winkelset54": {
-     "Winkelset54": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Franka_Schlitten_84363A-Kassette-FDA25K098": {
-     "Franka_Schlitten_84363A-Kassette-FDA25K098": {}
-    }, 
-    "Flachwinkel_80x80": {
-     "Flachwinkel_80x80": {}
-    }, 
-    "Abnehmer_starr_kamm_S2500_07_075002": {
-     "Abnehmer_starr_kamm_S2500_07_075002": {}
-    }, 
-    "Aluprofil_40X40_L_82_b": {
-     "Aluprofil_40X40_L_82_b": {}
-    }, 
-    "Winkelset60": {
-     "Winkelset60": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Winkelset61": {
-     "Winkelset61": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Riemenrollenhalter": {
-     "Riemenrollenhalter": {
-      "Riemenrollenhalter_Seite": {
-       "Riemenrollenhalter_Seite": {}
-      }, 
-      "Riemenrollenhalter_Winkelteil": {
-       "Riemenrollenhalter_Winkelteil": {}
-      }
-     }
-    }, 
-    "Lagerplatte_Schlitten_Y_energiekettenversion": {
-     "Lagerplatte_Schlitten_Y_energiekettenversion": {}
-    }, 
-    "20x30x4_L-Profil_109": {
-     "20x30x4_L-Profil_109": {}
-    }, 
-    "Corner_Bracket_40x40": {
-     "Corner_Bracket_40x40": {}
-    }, 
-    "Winkelset44": {
-     "Winkelset44": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Energiekettenhalter_X_unten": {
-     "Energiekettenhalter_X_unten": {}
-    }, 
-    "Lagerplatte_Schlitten_Y_normal": {
-     "Lagerplatte_Schlitten_Y_normal": {}
     }
+   }, 
+   "SC4-4": {}, 
+   "Wago_221-415": {}
+  }, 
+  "Gegenpressring_Spannbuchse_Extruder": {}, 
+  "Stopmutter_M12": {}, 
+  "Riemenrad_M-dler_HTD_3M_20Z_17022000": {}, 
+  "BG_PCB_Extruder": {
+   "Geh-use_PCB_Extruder": {}, 
+   "Extruder_PCB_Silkscreen": {}, 
+   "PCB_Extruder": {}
+  }, 
+  "Tank_lange_Kante": {}, 
+  "Zusatzhalterung_Lager": {}, 
+  "PFC1212DE-F00": {}, 
+  "Linearachse_Festo_EGC-80-1500-BS-10P-KF-0H-ML-GK_stp": {}, 
+  "Tank_BlechBefestigung": {}, 
+  "Verschraubplatten_LinearachsenZ": {}, 
+  "Wasserk-hlung_Radiator_Blech_Befestigung": {}, 
+  "Schraubklotz_Fr-steil_Extruder": {}, 
+  "Riemen2-3": {}, 
+  "Halterung_Extruder_Fr-steil": {}, 
+  "Tank_Unterteilung_Fenster": {}, 
+  "Extruder_IDE": {
+   "015921": {}, 
+   "093713": {}, 
+   "006603": {}, 
+   "037406": {}, 
+   "Scheibe_Nozzle": {}, 
+   "064576": {}, 
+   "nozzle": {}, 
+   "DIN_936_14_H_M52x3_Stahl": {}, 
+   "IDE_Schnecke_Extruder": {
+    "Block_04": {}
+   }, 
+   "006252": {}, 
+   "093723": {}
+  }, 
+  "Stepper_Nanotec_Nema_34_+_Encoder_+_Brake27": {
+   "WEDS5541-Bxx002": {}, 
+   "Brake-BKE-2_0-6_35_stp002": {}, 
+   "ST8918S4508-B002": {}
+  }, 
+  "L-fterblech": {}, 
+  "Farbmischer_Motortreiberhalter": {}, 
+  "Spannbuchse_M-dler_61530020_stp": {}, 
+  "Kabelhalter_m5": {}, 
+  "Schlauch_Exit": {}, 
+  "Verschraubplatten_LinearachsenZ_ventil": {}, 
+  "Farbmischer_Motortreiberhalter_Deckel": {}, 
+  "Wasserk-hlung_Radiator": {
+   "Radiator_120-360-45": {}, 
+   "L-fter_120mm_platine": {
+    "Block_05": {}
    }
   }, 
-  "Antriebsritzel_CoreXY_Riemenzug_zahnrad": {
-   "Antriebsritzel_CoreXY_Riemenzug_zahnrad": {}
+  "rotery_encoder_encoder_NUE": {}, 
+  "Axiallager_Nadelrollen_SKF_AXW_20": {}, 
+  "Tank_Blech_Abschluss_unteb": {}, 
+  "Granulattank_Blech_au-en": {}, 
+  "Energiekette_Z_Achse": {
+   "Igus_Energiekette_Mittelstueck_S2500_07_075_0_1": {}, 
+   "Igus_Energiekette_Festpunkt_starr_mit_Kamm_S2500_07_075": {}
   }, 
-  "Abnehmer_starr_kamm_S2500_07_075002": {
-   "Abnehmer_starr_kamm_S2500_07_075002": {}
+  "Linearachse_Festo_EGC-80-1500-BS-10P-KF-0H-MR-GK_stp": {}, 
+  "M5_Innensechskant_20": {}, 
+  "Tank_schiefer_Winkel": {}, 
+  "Verschraubplatten_LinearachsenZ_energiekette": {}, 
+  "Stepper_Nanotec_Nema_34_+_Encoder_+_Brake": {
+   "WEDS5541-Bxx002": {}, 
+   "Brake-BKE-2_0-6_35_stp002": {}, 
+   "ST8918S4508-B002": {}
   }, 
-  "Frame_Top": {
-   "Frame_Top": {
-    "Gespiegelt_CoreXY_Umlenkrollenhalter": {
-     "Gespiegelt_CoreXY_Umlenkrollenhalter": {
-      "Gespiegelt_CoreXY_Umlenkrollenhalter_Strebe": {
-       "Gespiegelt_CoreXY_Umlenkrollenhalter_Strebe": {}
-      }, 
-      "Gespiegelt_CoreXY_Umlenkrollenhalter_Winkel": {
-       "Gespiegelt_CoreXY_Umlenkrollenhalter_Winkel": {}
-      }, 
-      "Gespiegelt_CoreXY_Umlenkrollenhalter_Main": {
-       "Gespiegelt_CoreXY_Umlenkrollenhalter_Main": {}
-      }
-     }
-    }, 
-    "Baugruppe9^Rahmen_Oben72": {
-     "Baugruppe9^Rahmen_Oben72": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Baugruppe1^Rahmen_Oben": {
-     "Baugruppe1^Rahmen_Oben": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Baugruppe9^Rahmen_Oben25": {
-     "Baugruppe9^Rahmen_Oben25": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Baugruppe1^Rahmen_Oben51": {
-     "Baugruppe1^Rahmen_Oben51": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Baugruppe1^Rahmen_Oben19": {
-     "Baugruppe1^Rahmen_Oben19": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Baugruppe1^Rahmen_Oben74": {
-     "Baugruppe1^Rahmen_Oben74": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Aluprofil_40X40_L_140_oben": {
-     "Aluprofil_40X40_L_140_oben": {}
-    }, 
-    "Baugruppe8^Rahmen_Oben": {
-     "Baugruppe8^Rahmen_Oben": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Baugruppe9^Rahmen_Oben": {
-     "Baugruppe9^Rahmen_Oben": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Baugruppe8^Rahmen_Oben13": {
-     "Baugruppe8^Rahmen_Oben13": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Endstop_Y": {
-     "Endstop_Y": {
-      "Endstophalter_Y_Strebe": {
-       "Endstophalter_Y_Strebe": {}
-      }, 
-      "Endstophalter_Y": {
-       "Endstophalter_Y": {}
-      }
-     }
-    }, 
-    "Winkelgroup_82": {
-     "Winkelgroup_82": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Aluprofil_40X80_L_1823": {
-     "Aluprofil_40X80_L_1823": {}
-    }, 
-    "Winkelgroup_8237": {
-     "Winkelgroup_8237": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Aluprofil_40X80_L_2520": {
-     "Aluprofil_40X80_L_2520": {}
-    }, 
-    "Baugruppe9^Rahmen_Oben23": {
-     "Baugruppe9^Rahmen_Oben23": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "-nergiekettenhalter": {
-     "-nergiekettenhalter": {}
-    }, 
-    "Baugruppe8^Rahmen_Oben79": {
-     "Baugruppe8^Rahmen_Oben79": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Baugruppe7^Rahmen_Oben80": {
-     "Baugruppe7^Rahmen_Oben80": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Corner_Bracket_40X80": {
-     "Corner_Bracket_40X80": {}
-    }, 
-    "XY_Motorhalter_tief": {
-     "XY_Motorhalter_tief": {
-      "XY_Motorhalter_tief_Au-enblech": {
-       "XY_Motorhalter_tief_Au-enblech": {}
-      }, 
-      "XY_Motorhalter_tief_Winkel": {
-       "XY_Motorhalter_tief_Winkel": {}
-      }
-     }
-    }, 
-    "Baugruppe1^Rahmen_Oben22": {
-     "Baugruppe1^Rahmen_Oben22": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Baugruppe9^Rahmen_Oben16": {
-     "Baugruppe9^Rahmen_Oben16": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Aluprofil_40X40_L_2520": {
-     "Aluprofil_40X40_L_2520": {}
-    }, 
-    "Aluprofil_40X40_L_220_#2": {
-     "Aluprofil_40X40_L_220_#2": {}
-    }, 
-    "Baugruppe8^Rahmen_Oben3": {
-     "Baugruppe8^Rahmen_Oben3": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Baugruppe9^Rahmen_Oben49": {
-     "Baugruppe9^Rahmen_Oben49": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Linearachse_Franka_FD25_2000": {
-     "Linearachse_Franka_FD25_2000": {}
-    }, 
-    "Flachwinkel_80x80": {
-     "Flachwinkel_80x80": {}
-    }, 
-    "Baugruppe9^Rahmen_Oben4": {
-     "Baugruppe9^Rahmen_Oben4": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Stepper_Nanotec_Nema_34_+_Encoder_+_Brake2": {
-     "Stepper_Nanotec_Nema_34_+_Encoder_+_Brake2": {
-      "WEDS5541-Bxx002": {
-       "WEDS5541-Bxx002": {}
-      }, 
-      "Brake-BKE-2_0-6_35.stp002": {
-       "Brake-BKE-2_0-6_35.stp002": {}
-      }, 
-      "ST8918S4508-B002": {
-       "ST8918S4508-B002": {}
-      }
-     }
-    }, 
-    "CoreXY_Umlenkrollenhalter": {
-     "CoreXY_Umlenkrollenhalter": {
-      "CoreXY_Umlenkrollenhalter_Strebe": {
-       "CoreXY_Umlenkrollenhalter_Strebe": {}
-      }, 
-      "CoreXY_Umlenkrollenhalter_Main": {
-       "CoreXY_Umlenkrollenhalter_Main": {}
-      }, 
-      "CoreXY_Umlenkrollenhalter_Winkel": {
-       "CoreXY_Umlenkrollenhalter_Winkel": {}
-      }
-     }
-    }, 
-    "Baugruppe9^Rahmen_Oben31": {
-     "Baugruppe9^Rahmen_Oben31": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Baugruppe8^Rahmen_Oben12": {
-     "Baugruppe8^Rahmen_Oben12": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Baugruppe7^Rahmen_Oben62": {
-     "Baugruppe7^Rahmen_Oben62": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Aluprofil_40X40_L_82": {
-     "Aluprofil_40X40_L_82": {}
-    }, 
-    "Energiekette_Y": {
-     "Energiekette_Y": {
-      "Igus_Energiekette_Mittelstueck_S2500_07_075_0_1": {
-       "Igus_Energiekette_Mittelstueck_S2500_07_075_0_1": {}
-      }, 
-      "Igus_Energiekette_Festpunkt_starr_mit_Kamm_S2500_07_075": {
-       "Igus_Energiekette_Festpunkt_starr_mit_Kamm_S2500_07_075": {}
-      }
-     }
-    }, 
-    "Winkelgroup_827": {
-     "Winkelgroup_827": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Winkelgroup_826": {
-     "Winkelgroup_826": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Endstop_Siemens_3SE5423-0CD20-1EA2_G_NSA0_XX_01527V35": {
-     "Endstop_Siemens_3SE5423-0CD20-1EA2_G_NSA0_XX_01527V35": {
-      "5": {
-       "5": {}
-      }, 
-      "4": {
-       "4": {}
-      }, 
-      "7": {
-       "7": {}
-      }, 
-      "6": {
-       "6": {}
-      }, 
-      "1": {
-       "1": {}
-      }, 
-      "3": {
-       "3": {}
-      }, 
-      "2": {
-       "2": {}
-      }
-     }
-    }, 
-    "Corner_Bracket_80x80": {
-     "Corner_Bracket_80x80": {}
-    }, 
-    "Baugruppe8^Rahmen_Oben82": {
-     "Baugruppe8^Rahmen_Oben82": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Baugruppe7^Rahmen_Oben": {
-     "Baugruppe7^Rahmen_Oben": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Aluprofil_40X80_L_140oben": {
-     "Aluprofil_40X80_L_140oben": {}
-    }, 
-    "Motorsteuerung_Nanotec_C5-E": {
-     "Motorsteuerung_Nanotec_C5-E": {}
-    }, 
-    "Baugruppe7^Rahmen_Oben81": {
-     "Baugruppe7^Rahmen_Oben81": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Baugruppe1^Rahmen_Oben73": {
-     "Baugruppe1^Rahmen_Oben73": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "XY_Motorhalter_hoch": {
-     "XY_Motorhalter_hoch": {
-      "XY_Motorhalter_hoch_Au-enblech": {
-       "XY_Motorhalter_hoch_Au-enblech": {}
-      }, 
-      "XY_Motorhalter_hoch_Winkel": {
-       "XY_Motorhalter_hoch_Winkel": {}
-      }
-     }
-    }, 
-    "Stepper_Nanotec_Nema_34_+_Encoder_+_Brake33": {
-     "Stepper_Nanotec_Nema_34_+_Encoder_+_Brake33": {
-      "WEDS5541-Bxx002": {
-       "WEDS5541-Bxx002": {}
-      }, 
-      "Brake-BKE-2_0-6_35.stp002": {
-       "Brake-BKE-2_0-6_35.stp002": {}
-      }, 
-      "ST8918S4508-B002": {
-       "ST8918S4508-B002": {}
-      }
-     }
-    }, 
-    "Baugruppe8^Rahmen_Oben70": {
-     "Baugruppe8^Rahmen_Oben70": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Baugruppe8^Rahmen_Oben10": {
-     "Baugruppe8^Rahmen_Oben10": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Aluprofil_40X40_L_1823": {
-     "Aluprofil_40X40_L_1823": {}
-    }, 
-    "Baugruppe1^Rahmen_Oben66": {
-     "Baugruppe1^Rahmen_Oben66": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Baugruppe1^Rahmen_Oben56": {
-     "Baugruppe1^Rahmen_Oben56": {
-      "Corner_Bracket_40x40": {
-       "Corner_Bracket_40x40": {}
-      }
-     }
-    }, 
-    "Aluprofil_40X40_L_1920": {
-     "Aluprofil_40X40_L_1920": {}
-    }
+  "Halterung_Motoren_Z_Achse": {}, 
+  "Tank_Fenster_unten": {}, 
+  "C5-E": {}, 
+  "Abdeckung_Farbmischer": {}, 
+  "Schraubklotz_Fr-steil_Extruder_kleiner": {}, 
+  "Tank_Blech_Abschluss_oben": {}, 
+  "Zusatzhalterung_Lager_zu": {}, 
+  "Displayhalteplatte": {}, 
+  "Spiegelngeh-use_Endstop_z": {}, 
+  "Wasserk-hlung_Reservoir": {
+   "Strebe_Wasserk-hlung_Reservoir": {}, 
+   "Halterung_Wasserk-hlung_Reservoir": {}, 
+   "Wasserk-hlung_Reservoir_EisstationVPP_Shrink": {
+    "Block_01": {}
    }
   }, 
-  "3Dprinted_Spacers": {
-   "3Dprinted_Spacers": {
-    "8er_Muffe_3D-Druck_6.25": {
-     "8er_Muffe_3D-Druck_6.25": {}
+  "HDT_3M_40Z_17024000": {}, 
+  "Tank_Versteifung_Fenster": {}, 
+  "Festo_Schlitten_EGC-80-GK-GPBS1": {}
+ }, 
+ "Frame_Bottom": {
+  "WheelAttachment_BackLeft": {
+   "unterlegscheibe_m3": {}, 
+   "W_61906_R_2Z": {
+    "_W_61906_R_2Z_PART1_2": {}, 
+    "_W_61906_R_2Z_PART3_6": {}, 
+    "_W_61906_R_2Z_PART2_4": {}
+   }, 
+   "3dhalterlagerkegel": {}, 
+   "blech_kugellager_rad": {}, 
+   "stab": {}, 
+   "M3_Innensechskant_55": {}, 
+   "haltung_rad": {}, 
+   "17HS15-1684S-PG100_Varsay-lan": {
+    "Block_06": {}
+   }, 
+   "blech_geared_motor": {}, 
+   "radaufhaengung_3mm": {}, 
+   "5m_rad_rad_17234400": {}, 
+   "Riemen_Radaufh-ngung_Vorne": {}, 
+   "druckrad_8er_welle17221800": {}, 
+   "3020418": {
+    "_30204_ir_2": {}, 
+    "_30204_or_22": {}, 
+    "_30204_roller_6": {}, 
+    "_30204_cage_4": {}
+   }, 
+   "raedervogel_raeder_2946005000": {}
+  }, 
+  "WheelAttachment_FrontLeft": {
+   "17237200": {}, 
+   "64641201_stp": {}, 
+   "17HS15-1684S-PG100_Varsay-lan": {
+    "Block_06": {}
+   }, 
+   "raedervogel_raeder_2946005000_nackt": {}, 
+   "welle12": {}, 
+   "druckrad_8er_welle17221800": {}, 
+   "Riemen1-1^Radaufh-ngung_hinten": {}
+  }, 
+  "WheelAttachment_BackRight": {
+   "unterlegscheibe_m3": {}, 
+   "3dhalterlagerkegel": {}, 
+   "blech_kugellager_rad": {}, 
+   "stab": {}, 
+   "M3_Innensechskant_55": {}, 
+   "haltung_rad": {}, 
+   "17HS15-1684S-PG100_Varsay-lan": {
+    "Block_06": {}
+   }, 
+   "blech_geared_motor": {}, 
+   "30204": {
+    "_30204_ir_2": {}, 
+    "_30204_or_22": {}, 
+    "_30204_roller_6": {}, 
+    "_30204_cage_4": {}
+   }, 
+   "radaufhaengung_3mm": {}, 
+   "5m_rad_rad_17234400": {}, 
+   "Riemen_Radaufh-ngung_Vorne": {}, 
+   "W_61906_R_2Z57": {
+    "_W_61906_R_2Z_PART1_2": {}, 
+    "_W_61906_R_2Z_PART3_6": {}, 
+    "_W_61906_R_2Z_PART2_4": {}
+   }, 
+   "druckrad_8er_welle17221800": {}, 
+   "raedervogel_raeder_2946005000": {}
+  }, 
+  "WheelAttachment_FrontRight": {
+   "17237200": {}, 
+   "64641201_stp": {}, 
+   "17HS15-1684S-PG100_Varsay-lan": {
+    "Block_06": {}
+   }, 
+   "raedervogel_raeder_2946005000_nackt": {}, 
+   "welle12": {}, 
+   "druckrad_8er_welle17221800": {}, 
+   "Riemen1-1^Radaufh-ngung_hinten": {}
+  }, 
+  "Corner_Brackets": {}, 
+  "AL_Extrusion_Profiles": {
+   "Aluprofil_40X40_L_2520": {}, 
+   "Aluprofil_40X80_L_140_unten": {}, 
+   "Aluprofil_40X80_L_1823": {}, 
+   "Aluprofil_40X40_L_260": {}, 
+   "Aluprofil_40X40_L_140_unten": {}, 
+   "Aluprofil_40X80_L_220": {}, 
+   "Aluprofil_40X80_L_220_2": {}, 
+   "Aluprofil_40X80_L_450_diagonal": {}, 
+   "Aluprofil_40X40_L_220": {}, 
+   "Aluprofil_40X40_L_1823": {}, 
+   "Aluprofil_40X40_L_220_#2": {}, 
+   "Aluprofil_40X80_L_2520": {}, 
+   "Aluprofil_40X80_L_53": {}, 
+   "Aluprofil_40X40_L_220_2": {}
+  }
+ }, 
+ "Switch_Cabinet": {
+  "Terminal_Oben_Mitte": {
+   "Siemens_obenrum_Terminal_mitte": {}, 
+   "832_1103_037_000": {}, 
+   "832_1204": {}, 
+   "832_1104_037_000": {
+    "Block_02": {}
+   }, 
+   "832_1203": {}, 
+   "wago_4er_block": {
+    "wago_18_pcb": {}, 
+    "713_1430_037_000": {}
+   }
+  }, 
+  "Reset": {
+   "Terminal_Notaus": {}, 
+   "Siemens_Reset_3su18030ab002ab1": {}, 
+   "XT60E-M": {}
+  }, 
+  "Abdeckung_Wago_20": {}, 
+  "sss_5": {}, 
+  "sss_4": {}, 
+  "sss_7": {}, 
+  "sss_6": {}, 
+  "sss_1": {}, 
+  "sss_3": {}, 
+  "sss_2": {}, 
+  "Terminal_Oben_Rechts": {
+   "Siemens_obenrum_Terminal_rechts": {}, 
+   "Terminal_Oben_Rechts_Abdeckung": {}, 
+   "XT60E-M": {}, 
+   "RJ45_Terminal": {
+    "RJ4514": {
+     "RJ45_housing_2": {}, 
+     "RJ45_housing_1": {}
     }, 
-    "8er_Muffe_3D-Druck_4.25": {
-     "8er_Muffe_3D-Druck_4.25": {}
+    "RJ4575": {
+     "RJ45_housing_2": {}, 
+     "RJ45_housing_1": {}
     }, 
-    "8er_Muffe_3D-Druck_17.5": {
-     "8er_Muffe_3D-Druck_17.5": {}
+    "RJ45": {
+     "RJ45_housing_2": {}, 
+     "RJ45_housing_1": {}
+    }, 
+    "RJ4545": {
+     "RJ45_housing_2": {}, 
+     "RJ45_housing_1": {}
+    }, 
+    "RJ4517": {
+     "RJ45_housing_2": {}, 
+     "RJ45_housing_1": {}
+    }, 
+    "RJ455": {
+     "RJ45_housing_2": {}, 
+     "RJ45_housing_1": {}
+    }, 
+    "RJ4520": {
+     "RJ45_housing_2": {}, 
+     "RJ45_housing_1": {}
+    }, 
+    "RJ4521": {
+     "RJ45_housing_2": {}, 
+     "RJ45_housing_1": {}
+    }, 
+    "RJ4539": {
+     "RJ45_housing_2": {}, 
+     "RJ45_housing_1": {}
+    }, 
+    "RJ459": {
+     "RJ45_housing_2": {}, 
+     "RJ45_housing_1": {}
+    }, 
+    "Platine_RJ45_Terminal": {}, 
+    "RJ4534": {
+     "RJ45_housing_2": {}, 
+     "RJ45_housing_1": {}
+    }, 
+    "RJ4524": {
+     "RJ45_housing_2": {}, 
+     "RJ45_housing_1": {}
     }
    }
   }
+ }, 
+ "Stopper": {}, 
+ "X-Axis_Carriage": {
+  "Aluprofil_40X80_L_475": {}, 
+  "Ringmagnet_10,0_x_3,4_x_3,0": {}, 
+  "Adapterplatte_Schlitten_X": {}, 
+  "M5_Vierkantmutter": {}, 
+  "CoreXY_Riemenhalter": {
+   "CoreXY_Riemenhalter_-_nackt": {}, 
+   "CoreXY_Riemenhalter_-_Strebe": {}
+  }, 
+  "Terminal_xy92": {
+   "Terminal_xy": {}, 
+   "Deckel_Terminal": {}, 
+   "XT60E-M": {}, 
+   "Terminal_xy_komponenten": {
+    "832_1103_037_000": {}, 
+    "832_1204": {}, 
+    "832_1203": {}, 
+    "832_1104_037_000": {
+     "Block_02": {}
+    }, 
+    "wago_4er_block_obenkontakt": {
+     "wago_18_pcb_abgeschliffen": {}, 
+     "713_1430_037_000": {}
+    }
+   }
+  }, 
+  "Endstop_Siemens_3SE5423-0CD20-1EA2_G_NSA0_XX_01527V": {
+   "5": {}, 
+   "4": {}, 
+   "7": {}, 
+   "6": {}, 
+   "1": {}, 
+   "3": {}, 
+   "2": {}
+  }, 
+  "Franka_Schlitten_84363A-Kassette-FDA25K098": {}, 
+  "Abnehmer_starr_kamm_S2500_07_075002": {}, 
+  "Flachwinkel_80x80": {}, 
+  "Aluprofil_40X80_L_320": {}, 
+  "Corner_Bracket_80x80": {}, 
+  "Halteplatte_Festo_Schlitten_B": {}, 
+  "Halteplatte_Festo_Schlitten_A": {}, 
+  "Aluprofil_40X40_L_145": {}, 
+  "Energiekettenhalter_X_oben": {}, 
+  "Riemenstange": {}, 
+  "CoreXY_Riemenhalter_endstop": {
+   "CoreXY_Riemenhalter_-_nackt": {}, 
+   "CoreXY_Riemenhalter_-_Strebe": {}
+  }, 
+  "Riemenspanner": {}, 
+  "M5_Innensechskant_2_40": {}, 
+  "Festo_Schlitten_EGC-80-GK-GPBS1": {}
+ }, 
+ "Umlenkrolle_CoreXY_Riemenzug": {}, 
+ "Schlitten_Y": {
+  "Winkelset11": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Energiekette_X": {
+   "Igus_Energiekette_Mittelstueck_S2500_07_075_0_1": {}, 
+   "Igus_Energiekette_Festpunkt_starr_mit_Kamm_S2500_07_075": {}
+  }, 
+  "Riemenrollenhalter58": {
+   "Riemenrollenhalter_Seite": {}, 
+   "Riemenrollenhalter_Winkelteil": {}
+  }, 
+  "Aluprofil_40X40_L_1838": {}, 
+  "Linearachse_Franka_FD25_1700": {}, 
+  "Aluprofil_40X80_L_395": {}, 
+  "Winkelset": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Riemenrollenhalter47": {
+   "Riemenrollenhalter_Seite": {}, 
+   "Riemenrollenhalter_Winkelteil": {}
+  }, 
+  "Riemenrollenhalter67": {
+   "Riemenrollenhalter_Seite": {}, 
+   "Riemenrollenhalter_Winkelteil": {}
+  }, 
+  "Aluprofil_40X80_L_1960": {}, 
+  "Aluprofil_40X40_L_122": {}, 
+  "Winkelset54": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Franka_Schlitten_84363A-Kassette-FDA25K098": {}, 
+  "Flachwinkel_80x80": {}, 
+  "Abnehmer_starr_kamm_S2500_07_075002": {}, 
+  "Aluprofil_40X40_L_82_b": {}, 
+  "Winkelset60": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Winkelset61": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Riemenrollenhalter": {
+   "Riemenrollenhalter_Seite": {}, 
+   "Riemenrollenhalter_Winkelteil": {}
+  }, 
+  "Lagerplatte_Schlitten_Y_energiekettenversion": {}, 
+  "20x30x4_L-Profil_109": {}, 
+  "Corner_Bracket_40x40": {}, 
+  "Winkelset44": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Energiekettenhalter_X_unten": {}, 
+  "Lagerplatte_Schlitten_Y_normal": {}
+ }, 
+ "Antriebsritzel_CoreXY_Riemenzug_zahnrad": {}, 
+ "Abnehmer_starr_kamm_S2500_07_075002": {}, 
+ "Frame_Top": {
+  "Gespiegelt_CoreXY_Umlenkrollenhalter": {
+   "Gespiegelt_CoreXY_Umlenkrollenhalter_Strebe": {}, 
+   "Gespiegelt_CoreXY_Umlenkrollenhalter_Winkel": {}, 
+   "Gespiegelt_CoreXY_Umlenkrollenhalter_Main": {}
+  }, 
+  "Baugruppe9^Rahmen_Oben72": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Baugruppe1^Rahmen_Oben": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Baugruppe9^Rahmen_Oben25": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Baugruppe1^Rahmen_Oben51": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Baugruppe1^Rahmen_Oben19": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Baugruppe1^Rahmen_Oben74": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Aluprofil_40X40_L_140_oben": {}, 
+  "Baugruppe8^Rahmen_Oben": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Baugruppe9^Rahmen_Oben": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Baugruppe8^Rahmen_Oben13": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Endstop_Y": {
+   "Endstophalter_Y_Strebe": {}, 
+   "Endstophalter_Y": {}
+  }, 
+  "Winkelgroup_82": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Aluprofil_40X80_L_1823": {}, 
+  "Winkelgroup_8237": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Aluprofil_40X80_L_2520": {}, 
+  "Baugruppe9^Rahmen_Oben23": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "-nergiekettenhalter": {}, 
+  "Baugruppe8^Rahmen_Oben79": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Baugruppe7^Rahmen_Oben80": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Corner_Bracket_40X80": {}, 
+  "XY_Motorhalter_tief": {
+   "XY_Motorhalter_tief_Au-enblech": {}, 
+   "XY_Motorhalter_tief_Winkel": {}
+  }, 
+  "Baugruppe1^Rahmen_Oben22": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Baugruppe9^Rahmen_Oben16": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Aluprofil_40X40_L_2520": {}, 
+  "Aluprofil_40X40_L_220_#2": {}, 
+  "Baugruppe8^Rahmen_Oben3": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Baugruppe9^Rahmen_Oben49": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Linearachse_Franka_FD25_2000": {}, 
+  "Flachwinkel_80x80": {}, 
+  "Baugruppe9^Rahmen_Oben4": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Stepper_Nanotec_Nema_34_+_Encoder_+_Brake2": {
+   "WEDS5541-Bxx002": {}, 
+   "Brake-BKE-2_0-6_35_stp002": {}, 
+   "ST8918S4508-B002": {}
+  }, 
+  "CoreXY_Umlenkrollenhalter": {
+   "CoreXY_Umlenkrollenhalter_Strebe": {}, 
+   "CoreXY_Umlenkrollenhalter_Main": {}, 
+   "CoreXY_Umlenkrollenhalter_Winkel": {}
+  }, 
+  "Baugruppe9^Rahmen_Oben31": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Baugruppe8^Rahmen_Oben12": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Baugruppe7^Rahmen_Oben62": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Aluprofil_40X40_L_82": {}, 
+  "Energiekette_Y": {
+   "Igus_Energiekette_Mittelstueck_S2500_07_075_0_1": {}, 
+   "Igus_Energiekette_Festpunkt_starr_mit_Kamm_S2500_07_075": {}
+  }, 
+  "Winkelgroup_827": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Winkelgroup_826": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Endstop_Siemens_3SE5423-0CD20-1EA2_G_NSA0_XX_01527V35": {
+   "5": {}, 
+   "4": {}, 
+   "7": {}, 
+   "6": {}, 
+   "1": {}, 
+   "3": {}, 
+   "2": {}
+  }, 
+  "Corner_Bracket_80x80": {}, 
+  "Baugruppe8^Rahmen_Oben82": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Baugruppe7^Rahmen_Oben": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Aluprofil_40X80_L_140oben": {}, 
+  "Motorsteuerung_Nanotec_C5-E": {}, 
+  "Baugruppe7^Rahmen_Oben81": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Baugruppe1^Rahmen_Oben73": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "XY_Motorhalter_hoch": {
+   "XY_Motorhalter_hoch_Au-enblech": {}, 
+   "XY_Motorhalter_hoch_Winkel": {}
+  }, 
+  "Stepper_Nanotec_Nema_34_+_Encoder_+_Brake33": {
+   "WEDS5541-Bxx002": {}, 
+   "Brake-BKE-2_0-6_35_stp002": {}, 
+   "ST8918S4508-B002": {}
+  }, 
+  "Baugruppe8^Rahmen_Oben70": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Baugruppe8^Rahmen_Oben10": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Aluprofil_40X40_L_1823": {}, 
+  "Baugruppe1^Rahmen_Oben66": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Baugruppe1^Rahmen_Oben56": {
+   "Corner_Bracket_40x40": {}
+  }, 
+  "Aluprofil_40X40_L_1920": {}
+ }, 
+ "3Dprinted_Spacers": {
+  "8er_Muffe_3D-Druck_17_5": {}, 
+  "8er_Muffe_3D-Druck_4_25": {}, 
+  "8er_Muffe_3D-Druck_6_25": {}
  }
 }
