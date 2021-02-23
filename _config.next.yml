@@ -207,7 +207,7 @@ math:
     enable: true
     tags: ams
 
-pjax: true
+pjax: false
 
 mediumzoom: true
 
@@ -217,10 +217,10 @@ mediumzoom: true
 # ============================================================= #
 
 comments:
-  lazyload: true
+  lazyload: false
 
 disqus:
-  enable: true
+  enable: false
   shortname: next-theme
   count: true
 
