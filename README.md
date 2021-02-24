@@ -1,47 +1,11 @@
-<a title="NexT website" href="https://theme-next.js.org"><img align="right" alt="NexT logo" width="100" height="100" src="https://raw.githubusercontent.com/next-theme/hexo-theme-next/master/source/images/logo.svg"></a>
+<a title="HUGEFANCY Documentation" href="HUGEFANCYDOCS.github.io"><img align="right" alt="NexT logo" width="200" height="200" src="/source/images/HF_Logo01.png"></a>
 
-# [NexT](https://github.com/next-theme/hexo-theme-next) [Documentation](https://theme-next.js.org)
+# [HUGEFANCY](HUGEFANCYDOCS.github.io) [Documentation](HUGEFANCYDOCS.github.io)
 
-> «NexT» is a high quality elegant [Hexo](https://hexo.io) theme. It is crafted from scratch with love.
 
-[![Build Status](https://img.shields.io/netlify/bc28ebb2-8371-4a33-a1eb-e0a15e909168?logo=netlify&style=flat-square)](https://app.netlify.com/sites/hexo-theme-next/deploys)
+> HUGEFANCY is a Project exploring Human-Scale Large Format 3D Printing. This includes a custom designed 3D Printer, a customised version of Marlin and Printing algorithms developed to be printed with it. 
 
-## Schemes
-
-* :heart_decoration: [Muse](https://theme-next.js.org/muse/)
-* :six_pointed_star: [Mist](https://theme-next.js.org/mist/)
-* :pisces: [Pisces](https://theme-next.js.org/pisces/)
-* :gemini: [Gemini](https://theme-next.js.org) (**Default**)
-
-## Getting started
-
-Autoinstall Hexo & NexT & NexT Website Source on Localhost:
-
-```bash
-git clone https://github.com/next-theme/theme-next-docs
-cd theme-next-docs
-npm install
-```
-
-Generate:
-
-```bash
-npx hexo generate
-```
-
-Run server:
-
-```bash
-npx hexo server
-```
-
-### Checkout docs for older versions
-
-```bash
-git checkout v8.0.0
-npm install
-npx hexo clean
-```
+<a title="HUGEFANCY Printer" ><img align="center" alt="Hugefancy 3d printer large scale" src="/source/images/HUGEFANCY_Printer_overview.jpg"></a>
 
 ## License
 
