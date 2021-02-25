@@ -8,8 +8,9 @@ keywords: "3D printing, 3Dprinter, additive manufacturing, hugefancyprinter"
 language: en
 timezone: UTC
 
+
 # URL
-url: https://hugefancy-docs.github.io
+url: https://hugefancy.github.io/HF-docs
 root: /
 permalink: :title/
 permalink_defaults:
@@ -19,8 +20,8 @@ permalink_defaults:
 ## Gist with explanation: https://gist.github.com/btfak/18938572f5df000ebe06fbd1872e4e39
 deploy:
   type: git
-  repo: git@github.com:robin-gdwl/HUGEFANCY-docs.git
-  branch: main
+  repo: git@github.com:HUGEFANCY/hugefancy.github.io.git
+  branch: deploy02
 
 # Directory
 source_dir: source

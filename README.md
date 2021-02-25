@@ -2,7 +2,7 @@
 
 # [HUGEFANCY](hugefancy-docs.github.io) [Documentation](hugefancy-docs.github.io)
 
-This Repository holds the source files for the [hugefancy-docs.github.io](www.hugefancy-docs.github.io) website. 
+This Repository holds the source files for the [HUGEFANCY.github.io](https://HUGEFANCY.github.io) website. 
 **CURRENTLY UNDER DEVELOPEMENT PLEASE COME BACK LATER**
 
 > HUGEFANCY is a Project exploring Human-Scale Large Format 3D Printing.
