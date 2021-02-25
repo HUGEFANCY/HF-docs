@@ -3,8 +3,8 @@
 #################################################################
 
 # Site
-title: NexT
-keywords: "Hexo, NexT"
+title: HUGEFANCY docs
+keywords: "3D printing, 3Dprinter, additive manufacturing, hugefancyprinter"
 language: en
 timezone: UTC
 
@@ -48,6 +48,7 @@ highlight:
 
 # Home page setting
 index_generator:
+  path: '/blog'
   per_page: 4
   order_by: -date
 
