@@ -47,6 +47,7 @@ animate();
 function init() {
     
   scene = new THREE.Scene();
+  THREE.Cache.enabled = true
 
   // get the container element from the DOM
   container = document.getElementById('container');
@@ -150,10 +151,6 @@ function render() {
 }
 
 
-function get_baselayers(nestedarray){ 
-
-
-}
 function printValues(obj) {
   console.log("running print")
       for(var k in obj) {
@@ -164,28 +161,6 @@ function printValues(obj) {
               console.log(obj[k] + "test??");
           };
       }
-  };
-
-function loadfromdictionary(obj, loader, scene) {
-  var loadpath = ""
-  console.log("loadingfromarray:  "+ loadpath)
-  for(var k in obj) {
-    console.log(k)
-      if(obj[k] instanceof Object && Object.keys(obj[k]).length > 1 ) {
-        console.log("runnign   "+  obj[k])
-        loadpath += Object.keys(obj[k]) + "/";
-        loadpath += loadfromdictionary(obj[k])
-          // loadfromdictionary(obj[k]);
-
-      } else {
-          console.log(obj[k] + "oka");
-          console.log("returning: " + Object.keys(obj[k]))
-          var great = Object.keys(obj[k]);
-          console.log("grear: " + great)
-          return great
-      };
-      }
-  return "test"
   };
 
 function load_array(array, loader) {
