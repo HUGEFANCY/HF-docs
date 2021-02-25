@@ -9,10 +9,18 @@ language: en
 timezone: UTC
 
 # URL
-url: https://theme-next.js.org
+url: https://hugefancy-docs.github.io
 root: /
 permalink: :title/
 permalink_defaults:
+
+# Deployment
+## Docs: http://hexo.io/docs/deployment.html
+## Gist with explanation: https://gist.github.com/btfak/18938572f5df000ebe06fbd1872e4e39
+deploy:
+  type: git
+  repo: git@github.com:robin-gdwl/HUGEFANCY-docs.git
+  branch: main
 
 # Directory
 source_dir: source
@@ -82,5 +90,3 @@ marked:
 search:
   path: search.json
   field: all
-
-darkmode: true
