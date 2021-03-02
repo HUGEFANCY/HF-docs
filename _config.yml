@@ -10,7 +10,7 @@ timezone: UTC
 
 
 # URL
-url: https://hugefancy.github.io/HF-docs
+url: https://hugefancy.github.io
 root: /
 permalink: :title/
 permalink_defaults:
@@ -88,6 +88,6 @@ marked:
   smartypants: false
   lazyload: true
 
-search:
-  path: search.json
-  field: all
+# search:
+#   path: search.json
+#   field: all

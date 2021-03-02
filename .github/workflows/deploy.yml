@@ -24,11 +24,12 @@ jobs:
     - name: Install Dependencies
       if: steps.cache.outputs.cache-hit != 'true'
       run: npm ci
-    
+
     # Deploy hexo blog website.
     - name: Deploy
       id: deploy
-      uses: sma11black/hexo-action@v1.0.3
+      # uses: sma11black/hexo-action@v1.0.4
+      uses: HUGEFANCY/hexo-action@8757fd8fec22fa8b1354a48e5c337a0b23c8a02d
       with:
         deploy_key: ${{ secrets.DEPLOY_KEY }}
         commit_msg: ${{ github.event.head_commit.message }}  # (or delete this input setting to use hexo default settings)
