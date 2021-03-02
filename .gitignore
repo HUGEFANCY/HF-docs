@@ -6,5 +6,5 @@ public/
 .vscode/launch.json
 .vscode/settings.json
 source/images/HUGEFANCY_Printer_overview.jpg
-/source/assets/HUGEFANCY_Printer/
-/source/docs/mechanicaldesign/HUGEFANCY_Printer
+# /source/assets/HUGEFANCY_Printer/
+# /source/docs/mechanicaldesign/HUGEFANCY_Printer
